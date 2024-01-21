@@ -1,0 +1,88 @@
+
+<Schema name="StudentPerformanceSchema">
+<Cube name="StudentPerformanceCube" visible="true" cache="true" enabled="true">
+
+    <Table name="fact_table_student_performance">
+    </Table>
+<!-- Branch Dimension -->
+    <Dimension type="StandardDimension" visible="true" foreignKey="bac_id" highCardinality="false" name="branch_dim">
+      <Hierarchy name="branch" visible="true" hasAll="true" primaryKey="bac_id">
+        <Table name="branch_dim">
+        </Table>
+        <Level name="branch_id" visible="true" table="branch_dim" column="bac_id" nameColumn="bac_id" type="Numeric" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+        <Level name="description" visible="true" table="branch_dim" column="description" nameColumn="description" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+
+    <!-- Date Dimension -->
+    <Dimension type="StandardDimension" visible="true" foreignKey="date_id" highCardinality="false" name="date_dim">
+      <Hierarchy name="date" visible="true" hasAll="true" primaryKey="date_id">
+        <Table name="date_dim">
+        </Table>
+        <Level name="date_id" visible="true" table="date_dim" column="date_id" nameColumn="date_id" type="Numeric" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+        <Level name="day" visible="true" table="date_dim" column="Day" nameColumn="Day" type="Numeric" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+        <Level name="month" visible="true" table="date_dim" column="Month" nameColumn="Month" type="Numeric" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+        <Level name="year" visible="true" table="date_dim" column="Year" nameColumn="Year" type="Numeric" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+
+    <!-- Level Dimension -->
+    <Dimension type="StandardDimension" visible="true" foreignKey="level_id" highCardinality="false" name="level_dim">
+      <Hierarchy name="level" visible="true" hasAll="true" primaryKey="level_id">
+        <Table name="level_dim">
+        </Table>
+        <Level name="level_id" visible="true" table="level_dim" column="level_id" nameColumn="level_id" type="Numeric" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+        <Level name="description" visible="true" table="level_dim" column="description" nameColumn="description" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+
+    <!-- Specialization Dimension -->
+    <Dimension type="StandardDimension" visible="true" foreignKey="spec_id" highCardinality="false" name="specialization_dim">
+      <Hierarchy name="specialization" visible="true" hasAll="true" primaryKey="spec_id">
+        <Table name="specialization_dim">
+        </Table>
+        <Level name="spec_id" visible="true" table="specialization_dim" column="spec_id" nameColumn="spec_id" type="Numeric" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+        <Level name="description" visible="true" table="specialization_dim" column="description" nameColumn="description" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+
+    <!-- State Dimension -->
+    <Dimension type="StandardDimension" visible="true" foreignKey="state_id" highCardinality="false" name="state_dim">
+      <Hierarchy name="state" visible="true" hasAll="true" primaryKey="state_id">
+        <Table name="state_dim">
+        </Table>
+        <Level name="state_id" visible="true" table="state_dim" column="state_id" nameColumn="state_id" type="Numeric" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+        <Level name="description" visible="true" table="state_dim" column="description" nameColumn="description" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+        </Level>
+      </Hierarchy>
+    </Dimension>
+<!-- Student Dimension -->
+<Dimension type="StandardDimension" visible="true" foreignKey="student_id" highCardinality="false" name="students_dim">
+  <Hierarchy name="student" visible="true" hasAll="true" primaryKey="id">
+    <Table name="students_dim">
+    </Table>
+    <Level name="student_id" visible="true" table="students_dim" column="id" nameColumn="id" type="Numeric" uniqueMembers="true" levelType="Regular" hideMemberIf="Never">
+    </Level>
+    <Level name="first_name" visible="true" table="students_dim" column="first_name" nameColumn="first_name" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+    </Level>
+    <Level name="last_name" visible="true" table="students_dim" column="last_name" nameColumn="last_name" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+    </Level>
+    <Level name="gender" visible="true" table="students_dim" column="gender" nameColumn="gender" type="String" uniqueMembers="false" levelType="Regular" hideMemberIf="Never">
+    </Level>
+  </Hierarchy>
+</Dimension>
+<Measure name="GPA" column="GPA" datatype="Integer" aggregator="AVG" visible="true">
+    </Measure>
+  </Cube>
+</Schema>
