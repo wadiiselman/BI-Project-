@@ -1,5 +1,5 @@
 BI Project:
-Wadii Selmane - Mohamed Amine Hamadi - Farah Chicha
+<b>Wadii Selmane - Mohamed Amine Hamadi - Farah Chicha</b>
 
 
 
