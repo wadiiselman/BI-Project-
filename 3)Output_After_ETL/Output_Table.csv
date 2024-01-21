@@ -1,0 +1,1321 @@
+,id,first_name,last_name,gender,age,specialization,current_level,Day,Month,Year,study_hours,GPA
+0,123456789,Youssef,Ben Ali,M,22.0,Business Analytics,Major,25,06,2020,6.0,3.9
+1,234567890,Amira,Bouazizi,F,25.0,Finance,Major,25,06,2020,3.0,3.9
+2,345678901,Ahmed,Khaldi,M,24.0,Accounting,Major,25,06,2020,6.0,3.8
+3,456789012,Amina,Hamrouni,F,21.0,Marketing,Major,25,06,2020,7.0,3.8
+4,567890123,Mehdi,Gharbi,M,21.0,Business Analytics,Major,25,06,2020,6.0,3.8
+5,678901234,Fatma,Jlassi,F,25.0,Accounting,Major,25,06,2020,8.0,3.7
+7,890123456,Houda,Chakroun,F,25.0,Accounting,Major,25,06,2020,7.0,3.6
+8,901234567,Marwen,Nasri,M,21.0,Accounting,Major,25,06,2020,5.0,3.6
+9,112233445,Nour,Slimani,F,25.0,Information Technology,Major,25,06,2020,1.0,3.6
+10,223344556,Aymen,Mabrouk,M,22.0,Accounting,Major,25,06,2020,2.0,3.5
+11,334455667,Amal,Ben Youssef,F,24.0,Accounting,Major,25,06,2020,2.0,3.5
+12,445566778,Fares,Ghedira,M,25.0,Finance,Major,25,06,2020,3.0,3.4
+13,556677889,Salma,Cherif,F,23.0,Accounting,Major,25,06,2020,5.0,3.4
+14,667788990,Anis,Gabsi,M,24.0,Business Analytics,Major,25,06,2020,5.0,3.4
+15,778899001,Rania,Ben Salah,F,22.0,Marketing,Major,25,06,2020,5.0,3.3
+16,889900112,Karim,Haddad,M,22.0,Marketing,Major,25,06,2020,3.0,3.3
+17,990011223,Nesrine,Karray,F,24.0,Marketing,Major,25,06,2020,3.0,3.2
+18,111222333,Walid,Ben Jemaa,M,23.0,Marketing,Major,25,06,2020,3.0,3.2
+20,333444555,Zied,Ben Hassen,M,25.0,Finance,Major,25,06,2020,1.0,3.1
+22,555666777,Hamza,Miled,M,24.0,Business Analytics,Major,25,06,2020,2.0,3.1
+23,666777888,Ines,Ben Mahmoud,F,21.0,Marketing,Major,25,06,2020,2.0,3.0
+24,777888999,Riadh,Chaabane,M,21.0,Business Analytics,Major,25,06,2020,6.0,3.0
+25,888999000,Chaima,Sfar,F,25.0,Finance,Major,25,06,2020,3.0,3.0
+26,999000111,Mounir,Fekih,M,25.0,Finance,Major,25,06,2020,2.0,2.9
+27,123987456,Rim,Belhadj,F,23.0,Finance,Major,25,06,2020,5.0,2.9
+28,456789321,Wissem,Chebbi,M,25.0,Information Technology,Major,25,06,2020,1.0,2.9
+29,789654123,Sana,Kacem,F,23.0,Accounting,Major,25,06,2020,7.0,2.8
+30,321654987,Yassine,Jaouadi,M,21.0,Business Analytics,Major,25,06,2020,6.0,2.8
+32,987456321,Slim,Mejri,M,23.0,Marketing,Major,25,06,2020,1.0,2.7
+33,654789321,Myriam,El Abed,F,23.0,Information Technology,Major,25,06,2020,8.0,2.7
+34,321987654,Oussama,Dhaouadi,M,24.0,Finance,Major,25,06,2020,8.0,2.7
+35,987321654,Sabrine,Ben Romdhane,F,22.0,Information Technology,Major,25,06,2020,8.0,2.6
+36,987654321,Sofiene,Marzouki,M,25.0,Finance,Major,25,06,2020,3.0,2.6
+38,123456789,Khaled,Zouari,M,24.0,Accounting,Major,25,06,2020,3.0,2.5
+39,987654321,Hela,Ben Othman,F,21.0,Marketing,Major,25,06,2020,6.0,2.5
+41,321987654,Hayet,Ben Ameur,F,23.0,Finance,Major,25,06,2020,3.0,2.4
+42,987654321,Nizar,Bouzid,M,22.0,Accounting,Major,25,06,2020,5.0,2.3
+43,789654123,Houdhaifa,Maatoug,F,24.0,Business Analytics,Major,25,06,2020,3.0,2.3
+44,456789321,Saida,Ben Miled,M,21.0,Marketing,Major,25,06,2020,8.0,2.3
+45,654123789,Raouf,Laaribi,F,24.0,Information Technology,Major,25,06,2020,3.0,2.2
+47,111222333,Lotfi,Ben Slimane,F,22.0,Marketing,Major,25,06,2020,1.0,2.2
+48,333444555,Zeineb,Jelassi,M,21.0,Finance,Major,25,06,2020,1.0,2.1
+49,555666777,Sami,Ben Saad,F,21.0,Business Analytics,Major,25,06,2020,1.0,2.1
+50,777888999,Rym,Hachicha,M,24.0,Finance,Major,25,06,2020,8.0,2.1
+51,999000111,Zouhair,Ben Mabrouk,F,25.0,Information Technology,Major,25,06,2020,7.0,2.0
+52,111000999,Dorsaf,Ammar,M,21.0,Marketing,Major,25,06,2020,2.0,2.0
+53,999888777,Wael,Trabelsi,F,22.0,Accounting,Major,25,06,2020,5.0,2.0
+54,777666555,Hiba,Gouia,M,23.0,Information Technology,Major,25,06,2020,7.0,1.9000000000000001
+55,555444333,Yacine,Rekik,F,23.0,Accounting,Major,25,06,2020,4.0,1.9000000000000001
+56,333222111,Amel,Khemiri,M,21.0,Information Technology,Major,25,06,2020,7.0,1.9000000000000001
+57,654789321,Tarek,Abid,F,21.0,Marketing,Major,25,06,2020,5.0,1.8
+58,321987654,Naima,Zouaghi,M,23.0,Finance,Major,25,06,2020,3.0,1.8
+59,987321654,Adel,Jarraya,F,21.0,Business Analytics,Major,25,06,2020,5.0,1.8
+60,654321987,Sonia,Gara,M,25.0,Marketing,Major,25,06,2020,3.0,1.7
+61,987654321,Atef,Ben Dhia,F,22.0,Marketing,Major,25,06,2020,5.0,1.7
+63,123456789,Amin,Jedidi,F,25.0,Accounting,Major,25,06,2020,4.0,1.6
+65,654321987,Nabil,Gouider,F,25.0,Finance,Major,25,06,2020,4.0,1.6
+66,321987654,Sihem,Ben Haj,M,21.0,Marketing,Major,25,06,2020,7.0,1.5
+67,987654321,Bilel,Louati,F,22.0,Marketing,Major,25,06,2020,8.0,1.5
+68,789654123,Afef,Ben Moussa,M,22.0,Marketing,Major,25,06,2020,1.0,1.5
+69,456789321,Anouar,Sghaier,F,25.0,Business Analytics,Major,25,06,2020,8.0,1.5
+70,654123789,Amira,Ben Ali,M,22.0,Marketing,Major,25,06,2020,6.0,1.4
+71,321654987,Jihene,Bouazizi,F,22.0,Marketing,Major,25,06,2020,1.0,1.4
+72,111222333,Anas,Khaldi,M,22.0,Business Analytics,Major,25,06,2020,3.0,1.4
+73,333444555,Sirine,Hamrouni,F,22.0,Marketing,Major,25,06,2020,4.0,1.3
+77,111000999,Houda,Chakroun,F,21.0,Finance,Major,25,06,2020,4.0,1.2
+78,999888777,Fathi,Nasri,M,21.0,Information Technology,Major,25,06,2020,2.0,1.2
+79,777666555,Aicha,Slimani,F,23.0,Finance,Major,25,06,2020,8.0,1.1
+80,555444333,Mohamed Ali,Mabrouk,M,21.0,Information Technology,Major,25,06,2020,4.0,1.1
+83,321987654,Nadia,Cherif,F,24.0,Business Analytics,Major,25,06,2020,4.0,1.0
+84,987321654,Ghazi,Gabsi,M,23.0,Business Analytics,Major,25,06,2020,5.0,1.0
+85,654321987,Safa,Ben Salah,F,22.0,Accounting,Major,25,06,2020,5.0,3.9
+86,987654321,Samir,Haddad,M,21.0,Marketing,Major,25,06,2020,3.0,3.9
+87,321456789,Aida,Karray,F,21.0,Business Analytics,Major,25,06,2020,1.0,3.8
+88,123456789,Noura,Ben Jemaa,M,24.0,Accounting,Major,25,06,2020,5.0,3.8
+89,987654321,Oussama,Sassi,F,23.0,Information Technology,Major,25,06,2020,1.0,3.8
+90,654321987,Selma,Ben Hassen,M,21.0,Finance,Major,25,06,2020,7.0,3.7
+91,321987654,Mohamed Amine,Jemai,F,21.0,Business Analytics,Major,25,06,2020,7.0,3.7
+92,987654321,Laila,Miled,M,24.0,Business Analytics,Major,25,06,2020,1.0,3.6
+93,789654123,Karim,Ben Mahmoud,F,23.0,Accounting,Major,25,06,2020,5.0,3.6
+94,456789321,Faten,Chaabane,M,25.0,Business Analytics,Major,25,06,2020,2.0,3.6
+95,654123789,Ahmed,Sfar,F,21.0,Information Technology,Major,25,06,2020,3.0,3.5
+96,321654987,Wiem,Fekih,M,22.0,Accounting,Major,25,06,2020,7.0,3.5
+97,111222333,Hatem,Belhadj,F,22.0,Marketing,Major,25,06,2020,6.0,3.4
+98,333444555,Sabah,Chebbi,M,23.0,Marketing,Major,25,06,2020,3.0,3.4
+99,555666777,Maher,Kacem,F,25.0,Marketing,Major,25,06,2020,6.0,3.4
+101,999000111,Yassin,Ben Mansour,F,22.0,Information Technology,Major,25,06,2020,7.0,3.3
+102,111000999,Hajer,Mejri,M,21.0,Business Analytics,Major,25,06,2020,1.0,3.2
+104,777666555,Manel,Dhaouadi,M,25.0,Information Technology,Major,25,06,2020,7.0,3.2
+105,555444333,Taha,Ben Romdhane,F,24.0,Accounting,Major,25,06,2020,3.0,3.1
+106,333222111,Dina,Marzouki,M,21.0,Finance,Major,25,06,2020,5.0,3.1
+107,654789321,Walid,Belkhir,F,22.0,Accounting,Major,25,06,2020,6.0,3.1
+108,321987654,Rym,Zouari,M,24.0,Accounting,Major,25,06,2020,3.0,3.0
+109,987321654,Hichem,Ben Othman,F,21.0,Business Analytics,Major,25,06,2020,7.0,3.0
+110,654321987,Asma,Hamdi,M,24.0,Information Technology,Major,25,06,2020,2.0,3.0
+111,987654321,Belhassen,Ben Ameur,F,22.0,Business Analytics,Major,25,06,2020,6.0,2.9
+112,321456789,Dorra,Bouzid,M,24.0,Finance,Major,25,06,2020,4.0,2.9
+113,123456789,Karim,Maatoug,F,21.0,Marketing,Major,25,06,2020,7.0,2.9
+114,987654321,Emna,Ben Miled,M,23.0,Business Analytics,Major,25,06,2020,6.0,2.8
+115,654321987,Taher,Laaribi,F,24.0,Accounting,Major,25,06,2020,3.0,2.8
+116,321987654,Feriel,Ben Ayed,M,25.0,Information Technology,Major,25,06,2020,6.0,2.8
+118,789654123,Hela,Jelassi,M,21.0,Finance,Major,25,06,2020,2.0,2.7
+119,456789321,Abdelkader,Ben Saad,F,23.0,Information Technology,Major,25,06,2020,5.0,2.7
+120,654123789,Wassila,Hachicha,M,21.0,Marketing,Major,25,06,2020,2.0,2.6
+121,321654987,Malek,Ben Mabrouk,F,23.0,Information Technology,Major,25,06,2020,5.0,2.6
+122,111222333,Meriem,Ammar,M,24.0,Business Analytics,Major,25,06,2020,6.0,2.6
+123,333444555,Hatem,Trabelsi,F,23.0,Information Technology,Major,25,06,2020,1.0,2.5
+124,555666777,Khawla,Gouia,M,24.0,Accounting,Major,25,06,2020,2.0,2.5
+125,777888999,Montassar,Rekik,F,23.0,Finance,Major,25,06,2020,8.0,2.4
+126,999000111,Imen,Khemiri,M,25.0,Business Analytics,Major,25,06,2020,7.0,2.4
+127,111000999,Jalel,Abid,F,25.0,Finance,Major,25,06,2020,5.0,2.3
+128,999888777,Amel,Zouaghi,M,23.0,Marketing,Major,25,06,2020,3.0,2.3
+129,777666555,Othman,Jarraya,F,25.0,Information Technology,Major,25,06,2020,6.0,2.3
+130,555444333,Noura,Gara,M,24.0,Accounting,Major,25,06,2020,4.0,2.2
+131,333222111,Aymen,Ben Dhia,F,23.0,Accounting,Major,25,06,2020,2.0,2.2
+132,654789321,Olfa,Touati,M,21.0,Accounting,Major,25,06,2020,7.0,2.2
+133,321987654,Bassem,Jedidi,F,25.0,Accounting,Major,25,06,2020,6.0,2.1
+134,987321654,Imen,Kammoun,M,21.0,Accounting,Major,25,06,2020,4.0,2.1
+135,654321987,Yacine,Gouider,F,25.0,Business Analytics,Major,25,06,2020,3.0,2.1
+136,987654321,Zeineb,Ben Haj,M,22.0,Accounting,Major,25,06,2020,2.0,2.0
+137,321456789,Anis,Louati,F,24.0,Finance,Major,25,06,2020,7.0,2.0
+138,123456789,Leila,Ben Moussa,M,21.0,Finance,Major,25,06,2020,3.0,2.0
+140,654321987,Najet,Ben Ali,M,21.0,Finance,Major,25,06,2020,4.0,1.9000000000000001
+141,321987654,Mohsen,Bouazizi,F,21.0,Business Analytics,Major,25,06,2020,7.0,1.9000000000000001
+142,987654321,Nadia,Khaldi,M,25.0,Information Technology,Major,25,06,2020,4.0,1.8
+143,789654123,Mehdi,Hamrouni,F,22.0,Finance,Major,25,06,2020,1.0,1.8
+144,456789321,Khadija,Gharbi,M,23.0,Business Analytics,Major,25,06,2020,3.0,1.8
+145,654123789,Marouen,Jlassi,F,22.0,Finance,Major,25,06,2020,3.0,1.7
+146,321654987,Houda,Ben Amor,M,23.0,Business Analytics,Major,25,06,2020,7.0,1.7
+147,111222333,Amir,Chakroun,F,22.0,Information Technology,Major,25,06,2020,5.0,1.7
+148,333444555,Sonia,Nasri,M,22.0,Information Technology,Major,25,06,2020,4.0,1.6
+149,555666777,Nizar,Slimani,F,21.0,Information Technology,Major,25,06,2020,2.0,1.6
+150,777888999,Raja,Mabrouk,M,24.0,Business Analytics,Major,25,06,2020,1.0,1.6
+151,999000111,Hamza,Ben Youssef,F,22.0,Information Technology,Major,25,06,2020,8.0,1.5
+153,999888777,Hichem,Cherif,F,25.0,Information Technology,Major,25,06,2020,7.0,1.5
+154,777666555,Asma,Gabsi,M,23.0,Finance,Major,25,06,2020,4.0,1.5
+155,555444333,Chedly,Ben Salah,F,21.0,Business Analytics,Major,25,06,2020,8.0,1.4
+156,333222111,Fadia,Haddad,M,23.0,Marketing,Major,25,06,2020,2.0,1.4
+157,654789321,Sami,Karray,F,23.0,Business Analytics,Major,25,06,2020,7.0,1.4
+158,321987654,Rihab,Ben Jemaa,M,23.0,Accounting,Major,25,06,2020,3.0,1.3
+159,987321654,Haikel,Sassi,F,21.0,Marketing,Major,25,06,2020,5.0,1.3
+160,654321987,Feryel,Ben Hassen,M,24.0,Information Technology,Major,25,06,2020,1.0,1.3
+161,987654321,Anouar,Jemai,F,21.0,Business Analytics,Major,25,06,2020,3.0,1.2
+162,321456789,Saloua,Miled,M,22.0,Accounting,Major,25,06,2020,8.0,1.2
+163,123456789,Ramzi,Ben Mahmoud,F,25.0,Information Technology,Major,25,06,2020,5.0,1.2
+164,987654321,Lamia,Chaabane,M,22.0,Information Technology,Major,25,06,2020,4.0,1.1
+165,654321987,Sofiene,Sfar,F,21.0,Information Technology,Major,25,06,2020,5.0,1.1
+167,987654321,Walid,Belhadj,F,21.0,Information Technology,Major,25,06,2020,6.0,1.0
+168,789654123,Emna,Chebbi,M,21.0,Finance,Major,25,06,2020,3.0,1.0
+169,456789321,Fawzi,Kacem,F,25.0,Accounting,Major,25,06,2020,5.0,1.0
+170,654123789,Amel,Jaouadi,M,24.0,Accounting,Major,25,06,2020,1.0,3.9
+171,321654987,Ayoub,Ben Mansour,F,23.0,Accounting,Major,25,06,2020,6.0,3.9
+173,333444555,Medhi,El Abed,F,22.0,Finance,Major,25,06,2020,3.0,3.8
+174,555666777,Fatma,Dhaouadi,M,23.0,Accounting,Major,25,06,2020,7.0,3.8
+175,777888999,Youssef,Ben Romdhane,F,23.0,Accounting,Major,25,06,2020,3.0,3.7
+176,999000111,Rim,Marzouki,M,22.0,Business Analytics,Major,25,06,2020,3.0,3.7
+177,111000999,Hamza,Belkhir,F,25.0,Accounting,Major,25,06,2020,6.0,3.6
+178,999888777,Amina,Zouari,M,22.0,Business Analytics,Major,25,06,2020,6.0,3.6
+179,777666555,Mohamed,Ben Othman,F,23.0,Marketing,Major,25,06,2020,8.0,3.6
+180,555444333,Houda,Hamdi,M,22.0,Business Analytics,Major,25,06,2020,3.0,3.5
+181,333222111,Marwen,Ben Ameur,F,23.0,Marketing,Major,25,06,2020,3.0,3.5
+182,123456789,Youssef,Bouzid,M,21.0,Finance,Major,25,06,2020,4.0,3.4
+183,234567890,Amira,Maatoug,F,21.0,Information Technology,Major,25,06,2020,6.0,3.4
+184,345678901,Ahmed,Ben Miled,M,22.0,Business Analytics,Major,25,06,2020,6.0,3.4
+185,456789012,Amina,Laaribi,F,22.0,Marketing,Major,25,06,2020,4.0,3.3
+186,567890123,Mehdi,Ben Ayed,M,25.0,Information Technology,Major,25,06,2020,7.0,3.3
+187,678901234,Fatma,Ben Slimane,F,22.0,Accounting,Major,25,06,2020,1.0,3.2
+188,789012345,Mohamed,Jelassi,M,23.0,Business Analytics,Major,25,06,2020,3.0,3.2
+189,890123456,Houda,Ben Saad,F,22.0,Information Technology,Major,25,06,2020,4.0,3.2
+190,901234567,Marwen,Hachicha,M,25.0,Marketing,Major,25,06,2020,5.0,3.1
+191,112233445,Nour,Ben Mabrouk,F,24.0,Marketing,Major,25,06,2020,7.0,3.1
+192,223344556,Aymen,Ammar,M,22.0,Marketing,Major,25,06,2020,6.0,3.1
+193,334455667,Amal,Trabelsi,F,25.0,Finance,Major,25,06,2020,3.0,3.0
+194,445566778,Fares,Gouia,M,24.0,Business Analytics,Major,25,06,2020,3.0,3.0
+195,556677889,Salma,Rekik,F,22.0,Business Analytics,Major,25,06,2020,8.0,3.0
+197,778899001,Rania,Abid,F,21.0,Marketing,Major,25,06,2020,7.0,2.9
+0,7632451,Ahmed,Bouazza,M,21.0,Marketing,Major,31,10,2020,7.0,3.5
+1,9023145,Fatima,Benali,F,21.0,Finance,Major,04,08,2020,2.0,3.49
+3,6948203,Amina,Belkacem,F,21.0,Finance,Major,29,11,2020,1.0,3.47
+4,1278549,Malik,Ait Kaci,M,23.0,Marketing,Major,22,09,2020,2.0,3.46
+5,6359872,Djamila,Boumediene,F,25.0,Information Technology,Major,30,04,2021,7.0,3.45
+7,8901245,Laila,Bouzid,F,25.0,Business Analytics,Major,12,07,2020,2.0,3.43
+8,4367890,Hamza,Amara,M,23.0,Accounting,Major,13,07,2020,5.0,3.42
+9,5712348,Zahra,Meziane,F,21.0,Marketing,Major,30,03,2021,6.0,3.41
+10,9203841,Bilal,Hamdi,M,25.0,Business Analytics,Major,12,07,2020,5.0,3.4
+12,2398567,Hichem,Belkheir,M,22.0,Finance,Major,17,05,2021,3.0,3.38
+13,8031742,Naima,Slimane,F,22.0,Business Analytics,Major,09,05,2021,2.0,3.37
+14,6152978,Kamel,Boudjellal,M,25.0,Business Analytics,Major,24,01,2021,1.0,3.36
+15,4920785,Nadia,Zeroual,F,21.0,Business Analytics,Major,30,08,2020,4.0,3.35
+16,3562187,Youssef,Saadi,M,21.0,Finance,Major,09,01,2021,5.0,3.34
+18,7890314,Amir,Boucetta,M,22.0,Business Analytics,Major,26,09,2020,6.0,3.32
+19,5432981,Fatiha,Meziani,F,23.0,Finance,Major,20,10,2020,5.0,3.31
+20,1879650,Karim,Bensaada,M,24.0,Marketing,Major,01,03,2021,6.0,3.3
+21,9023841,Zineb,Kadi,F,21.0,Accounting,Major,14,01,2021,5.0,3.29
+22,4532168,Walid,Guermat,M,25.0,Business Analytics,Major,23,02,2021,7.0,3.28
+23,6790832,Samira,Abdi,F,25.0,Marketing,Major,18,02,2021,4.0,3.27
+25,5043128,Soraya,Terkmani,F,21.0,Accounting,Major,27,10,2020,8.0,3.25
+26,8657902,Mourad,Ait Amar,M,25.0,Marketing,Major,26,05,2021,6.0,3.24
+27,3482107,Samia,Bouaicha,F,23.0,Marketing,Major,18,01,2021,3.0,3.23
+28,7321984,Tarik,Bouderbala,M,24.0,Business Analytics,Major,14,09,2020,4.0,3.22
+29,6902431,Hanane,Ait Said,F,24.0,Accounting,Major,12,05,2021,8.0,3.21
+30,1273458,Abdelkader,Bensaid,M,25.0,Marketing,Major,13,07,2020,5.0,3.2
+31,5012398,Nour,Kaci,F,23.0,Finance,Major,28,08,2020,5.0,3.19
+32,8764302,Hocine,Benali,M,23.0,Information Technology,Major,12,07,2020,6.0,3.18
+33,2831749,Farida,Ait Ziane,F,21.0,Marketing,Major,23,02,2021,8.0,3.17
+34,4678092,Adel,Sadi,M,21.0,Marketing,Major,10,07,2020,6.0,3.16
+35,3142875,Rima,Boudiaf,F,21.0,Marketing,Major,07,04,2021,2.0,3.15
+37,6218403,Nadira,Chibane,F,24.0,Business Analytics,Major,04,07,2020,8.0,3.13
+38,3842107,Khaled,Boulares,M,22.0,Information Technology,Major,20,03,2021,4.0,3.12
+39,5987023,Naima,Guerrouj,F,24.0,Information Technology,Major,17,12,2020,6.0,3.11
+40,1934875,Djamel,Ziani,M,25.0,Business Analytics,Major,27,09,2020,5.0,3.1
+41,8723416,Sabrina,Kadri,F,23.0,Information Technology,Major,18,09,2020,5.0,3.09
+42,5062814,Riad,Boudalia,M,23.0,Accounting,Major,30,05,2021,1.0,3.08
+45,2751934,Amir,Belkhadem,F,23.0,Marketing,Major,01,07,2020,5.0,3.05
+46,8436051,Amina,Bouzar,M,23.0,Business Analytics,Major,31,12,2020,1.0,3.04
+47,1693472,Ilyes,Goumidi,F,25.0,Finance,Major,23,03,2021,5.0,3.03
+48,7203984,Kenza,Ait Haddad,M,25.0,Information Technology,Major,19,12,2020,5.0,3.02
+49,5846702,Yacine,Salmi,F,21.0,Information Technology,Major,08,02,2021,4.0,3.01
+50,3921854,Hiba,Tabet,M,24.0,Marketing,Major,13,01,2021,5.0,3.0
+51,8307462,Nabil,Guenifi,F,22.0,Information Technology,Major,19,05,2021,7.0,2.99
+52,5478320,Nawel,Allam,M,22.0,Marketing,Major,25,04,2021,5.0,2.98
+53,1083724,Adil,Derradji,F,21.0,Accounting,Major,09,09,2020,8.0,2.97
+54,6931748,Dalila,Boukhalfa,M,21.0,Finance,Major,21,05,2021,5.0,2.96
+56,4768302,Noura,Hamdadou,M,25.0,Finance,Major,06,12,2020,7.0,2.94
+57,9283451,Tarek,Belhadj,F,22.0,Information Technology,Major,27,03,2021,4.0,2.93
+58,6345018,Leila,Medjani,M,21.0,Accounting,Major,20,08,2020,1.0,2.92
+59,8014723,Hakim,Boukaabous,F,22.0,Accounting,Major,14,10,2020,6.0,2.91
+62,7432158,Salma,Bennaoui,M,21.0,Finance,Major,12,07,2020,5.0,2.88
+63,4820173,Djamel,Berrahal,F,24.0,Business Analytics,Major,14,07,2020,8.0,2.87
+64,6701934,Yasmine,Boughedir,M,23.0,Finance,Major,20,09,2020,7.0,2.86
+66,2140958,Nadira,Kichou,M,25.0,Information Technology,Major,19,11,2020,6.0,2.84
+67,7892430,Walid,Tassili,F,25.0,Marketing,Major,02,10,2020,8.0,2.83
+68,5301764,Mouna,Adjali,M,24.0,Finance,Major,31,05,2021,8.0,2.82
+69,1624958,Nacer,Kessaï,F,24.0,Business Analytics,Major,30,01,2021,1.0,2.81
+71,3148602,Yassine,Boudechiche,F,22.0,Marketing,Major,13,08,2020,4.0,2.79
+72,9624703,Salima,Hammoudi,M,21.0,Information Technology,Major,17,04,2021,7.0,2.78
+73,4078132,Khaled,Bessaoud,F,23.0,Information Technology,Major,08,02,2021,3.0,2.77
+74,5987041,Souad,Khalfallah,M,24.0,Finance,Major,25,05,2021,4.0,2.76
+75,2361584,Bilal,Mezouar,F,25.0,Accounting,Major,23,07,2020,2.0,2.75
+76,7850342,Rania,Terki,M,25.0,Finance,Major,18,11,2020,5.0,2.74
+77,4198760,Abdou,Benyahia,F,21.0,Finance,Major,23,03,2021,7.0,2.73
+80,3482079,Samia,Bouzidi,M,21.0,Information Technology,Major,24,10,2020,2.0,2.7
+81,8703912,Rafik,Belaïd,F,21.0,Business Analytics,Major,17,08,2020,1.0,2.69
+82,5019783,Sana,Ferroukhi,M,23.0,Information Technology,Major,19,08,2020,8.0,2.68
+83,6270934,Zaki,Hadef,F,23.0,Marketing,Major,21,02,2021,2.0,2.67
+85,4678135,Karim,Derriche,F,24.0,Accounting,Major,15,10,2020,7.0,2.65
+86,2187650,Samira,Bougara,M,21.0,Information Technology,Major,20,08,2020,4.0,2.64
+87,8032156,Amine,Mehennaoui,F,22.0,Accounting,Major,05,07,2020,7.0,2.63
+88,5946802,Yousra,Hamza,M,21.0,Accounting,Major,11,04,2021,7.0,2.62
+89,3762148,Mehdi,Belkessa,F,23.0,Marketing,Major,07,11,2020,6.0,2.61
+91,8650742,Younes,Bougrara,F,23.0,Finance,Major,03,01,2021,2.0,2.59
+92,4297186,Fadila,Terfaya,M,25.0,Business Analytics,Major,11,03,2021,4.0,2.58
+93,7850234,Yacine,Tafat,F,21.0,Accounting,Major,16,01,2021,4.0,2.57
+94,5134072,Amel,Harbi,M,23.0,Information Technology,Major,02,08,2020,7.0,2.56
+95,6901274,Ahmed,Boukhari,F,22.0,Marketing,Major,28,12,2020,3.0,2.55
+96,2475038,Souhila,Bouhadi,M,21.0,Marketing,Major,15,08,2020,2.0,2.54
+97,8234951,Abderrahmane,Hamel,F,21.0,Finance,Major,26,10,2020,8.0,2.53
+98,6012384,Selma,Ziani,M,24.0,Accounting,Major,01,03,2021,4.0,2.52
+99,3840172,Mourad,Benchikh,F,23.0,Information Technology,Major,21,10,2020,6.0,2.51
+100,7590238,Chaima,Chibani,M,21.0,Business Analytics,Major,16,02,2021,1.0,2.5
+101,1684023,Tarek,Benkaci,F,23.0,Marketing,Major,13,12,2020,8.0,2.49
+102,5024138,Salima,Bensaïd,M,22.0,Business Analytics,Major,25,09,2020,7.0,2.48
+103,9374812,Mohand,Tassili,F,23.0,Accounting,Major,19,09,2020,3.0,2.47
+104,3615892,Lila,Boumedienne,M,23.0,Marketing,Major,15,05,2021,6.0,2.46
+105,7403128,Yacine,Gueddouda,F,24.0,Marketing,Major,12,08,2020,1.0,2.45
+106,2548093,Meriem,Boukhalfa,M,22.0,Accounting,Major,27,02,2021,8.0,2.44
+107,6785031,Walid,Aïssaoui,F,23.0,Information Technology,Major,24,03,2021,8.0,2.43
+108,4198650,Fadila,Derkaoui,M,24.0,Marketing,Major,09,01,2021,2.0,2.42
+109,9320841,Nassim,Terki,F,22.0,Finance,Major,07,03,2021,5.0,2.41
+110,5784203,Lina,Khalfallah,M,23.0,Business Analytics,Major,30,04,2021,1.0,2.4
+111,3147980,Hicham,Meziani,F,23.0,Information Technology,Major,21,11,2020,4.0,2.39
+112,6051789,Ghania,Khelifi,M,22.0,Accounting,Major,18,09,2020,1.0,2.38
+114,1490623,Yasmina,Guerfi,M,21.0,Finance,Major,28,01,2021,8.0,2.36
+115,3870152,Kamal,Kichou,F,24.0,Finance,Major,25,10,2020,2.0,2.35
+116,6948012,Houda,Tassili,M,25.0,Information Technology,Major,21,08,2020,3.0,2.34
+117,5032481,Zaki,Adjali,F,22.0,Finance,Major,27,03,2021,8.0,2.33
+118,8762104,Mouna,Kessaï,M,23.0,Accounting,Major,14,07,2020,6.0,2.32
+121,4685093,Samir,Hammoudi,F,22.0,Information Technology,Major,26,04,2021,3.0,2.29
+122,7201634,Dina,Bessaoud,M,25.0,Accounting,Major,08,08,2020,6.0,2.28
+123,2954780,Khaled,Khalfallah,F,23.0,Marketing,Major,21,10,2020,2.0,2.27
+124,6328401,Anissa,Belaïd,M,21.0,Business Analytics,Major,03,03,2021,7.0,2.26
+125,8012543,Yassine,Ferroukhi,F,22.0,Information Technology,Major,22,12,2020,5.0,2.25
+126,1275834,Salwa,Hadef,M,24.0,Marketing,Major,25,10,2020,1.0,2.24
+127,5798142,Amir,Khelifi,F,21.0,Business Analytics,Major,09,08,2020,4.0,2.23
+128,3462108,Chahrazed,Derriche,M,23.0,Business Analytics,Major,27,05,2021,4.0,2.22
+129,9038741,Abdel,Bougara,F,21.0,Business Analytics,Major,09,11,2020,1.0,2.21
+130,5189376,Yousra,Mehennaoui,M,23.0,Marketing,Major,20,01,2021,6.0,2.2
+132,4598102,Nour,Belkessa,M,25.0,Information Technology,Major,24,10,2020,1.0,2.18
+133,7820134,Samir,Guendouz,F,21.0,Finance,Major,03,09,2020,8.0,2.17
+134,3152948,Hanifa,Bougrara,M,23.0,Accounting,Major,15,08,2020,6.0,2.16
+135,6784501,Wassim,Terfaya,F,21.0,Accounting,Major,08,04,2021,8.0,2.15
+136,1934678,Rania,Tafat,M,23.0,Business Analytics,Major,07,05,2021,2.0,2.14
+138,2378091,Nadia,Boukhari,M,21.0,Finance,Major,02,04,2021,1.0,2.12
+139,5062873,Yazid,Bouhadi,F,21.0,Business Analytics,Major,13,03,2021,5.0,2.11
+142,3208467,Farida,Benchikh,M,25.0,Accounting,Major,10,02,2021,7.0,2.08
+143,6951832,Abdellah,Chibani,F,22.0,Finance,Major,15,05,2021,3.0,2.07
+145,1309874,Hakim,Bensaïd,F,22.0,Finance,Major,10,02,2021,6.0,2.05
+146,5870412,Amira,Tassili,M,24.0,Business Analytics,Major,13,11,2020,4.0,2.04
+147,4037158,Samir,Boumedienne,F,22.0,Accounting,Major,30,11,2020,8.0,2.03
+148,2196357,Nadia,Gueddouda,M,24.0,Marketing,Major,31,08,2020,6.0,2.02
+150,1582974,Ouarda,Aïssaoui,M,22.0,Finance,Major,14,11,2020,7.0,2.0
+151,8320761,Abdelmajid,Derkaoui,F,24.0,Marketing,Major,16,12,2020,3.0,1.99
+152,5021483,Samira,Terki,M,21.0,Marketing,Major,21,01,2021,8.0,1.98
+153,9678134,Faiza,Khalfallah,F,23.0,Business Analytics,Major,29,07,2020,8.0,1.97
+154,4135862,Sofiane,Meziani,M,25.0,Information Technology,Major,15,09,2020,5.0,1.96
+156,6480912,Hamid,Boughedir,M,24.0,Accounting,Major,19,04,2021,6.0,1.94
+157,3570928,Zohra,Guerfi,F,23.0,Finance,Major,24,08,2020,5.0,1.93
+158,2910834,Hicham,Kichou,M,24.0,Accounting,Major,05,04,2021,1.0,1.92
+159,5069723,Widad,Tassili,F,23.0,Marketing,Major,29,03,2021,4.0,1.91
+160,1832074,Said,Adjali,M,25.0,Business Analytics,Major,21,01,2021,3.0,1.9
+161,8903472,Aicha,Kessaï,F,23.0,Accounting,Major,17,03,2021,1.0,1.89
+162,5432890,Hocine,Meradji,M,22.0,Finance,Major,11,09,2020,1.0,1.88
+163,2673018,Imane,Boudechiche,F,25.0,Marketing,Major,08,12,2020,8.0,1.87
+165,4295813,Salma,Bessaoud,F,25.0,Business Analytics,Major,12,01,2021,5.0,1.85
+166,6942381,Abdallah,Khalfallah,M,24.0,Finance,Major,12,11,2020,6.0,1.84
+167,5038721,Samia,Belaïd,F,25.0,Marketing,Major,14,04,2021,7.0,1.83
+168,8274013,Reda,Ferroukhi,M,25.0,Marketing,Major,02,02,2021,5.0,1.82
+169,1652398,Hafsa,Hadef,F,25.0,Marketing,Major,02,08,2020,2.0,1.81
+170,9740831,Mourad,Khelifi,M,23.0,Accounting,Major,05,07,2020,4.0,1.8
+171,7012548,Rym,Derriche,F,24.0,Business Analytics,Major,17,07,2020,1.0,1.79
+172,2354718,Abderrezak,Bougara,M,25.0,Information Technology,Major,19,09,2020,6.0,1.78
+173,8091734,Kaoutar,Mehennaoui,F,22.0,Finance,Major,20,08,2020,6.0,1.77
+175,3742980,Mounir,Belkessa,F,22.0,Information Technology,Major,07,12,2020,1.0,1.75
+176,6921854,Malika,Guendouz,M,22.0,Information Technology,Major,31,01,2021,4.0,1.74
+177,8371420,Nassim,Bougrara,F,24.0,Accounting,Major,09,05,2021,5.0,1.73
+178,1490853,Dalila,Terfaya,M,21.0,Finance,Major,14,07,2020,8.0,1.72
+180,4280135,Lina,Harbi,M,24.0,Information Technology,Major,05,10,2020,6.0,3.5
+181,7650923,Anis,Boukhari,F,25.0,Finance,Major,25,04,2021,2.0,3.49
+182,3021847,Nawal,Bouhadi,M,25.0,Marketing,Major,08,08,2020,1.0,3.48
+184,6948301,Hayat,Ziani,M,24.0,Finance,Major,08,11,2020,4.0,3.46
+187,5082341,Samir,Benkaci,F,22.0,Information Technology,Major,15,09,2020,4.0,3.43
+188,7942031,Sana,Bensaïd,M,24.0,Marketing,Major,25,10,2020,5.0,3.42
+189,1563489,Redouane,Tassili,F,21.0,Business Analytics,Major,05,09,2020,1.0,3.41
+190,6370412,Salma,Boumedienne,M,23.0,Information Technology,Major,03,12,2020,7.0,3.4
+191,8901257,Youcef,Gueddouda,F,25.0,Business Analytics,Major,09,08,2020,8.0,3.39
+192,4215098,Yasmine,Boukhalfa,M,23.0,Business Analytics,Major,28,02,2021,1.0,3.38
+193,9038172,Amar,Aïssaoui,F,21.0,Marketing,Major,13,09,2020,4.0,3.37
+194,1847502,Rania,Derkaoui,M,23.0,Information Technology,Major,29,05,2021,1.0,3.36
+196,3421589,Hanane,Khalfallah,M,21.0,Marketing,Major,05,09,2020,4.0,3.34
+197,9765023,Chakib,Meziani,F,21.0,Accounting,Major,29,03,2021,8.0,3.33
+198,2801345,Kaoutar,Khelifi,M,25.0,Information Technology,Major,22,11,2020,5.0,3.32
+199,5948213,Abdelkrim,Boughedir,F,22.0,Finance,Major,21,08,2020,5.0,3.31
+0,12345678,Ahmed,Ben Ali,M,25.0,Marketing,Major,04,06,2022,7.0,3.4
+1,23456789,Fatima,Bouazizi,F,24.0,Business Analytics,Major,02,06,2022,5.0,3.39
+2,34567890,Omar,Ghannouchi,M,25.0,Accounting,Major,18,06,2022,1.0,3.38
+3,45678901,Aisha,Trabelsi,F,21.0,Accounting,Major,29,06,2022,5.0,3.37
+4,56789012,Ali,Cherif,M,24.0,Business Analytics,Major,24,06,2022,4.0,3.36
+5,67890123,Layla,Sassi,F,25.0,Information Technology,Major,18,06,2022,2.0,3.35
+6,78901234,Hassan,Khemiri,M,21.0,Business Analytics,Major,27,06,2022,8.0,3.34
+7,89012345,Zahra,Ben Amor,F,22.0,Accounting,Major,27,06,2022,6.0,3.33
+8,90123456,Yusuf,Gharbi,M,24.0,Finance,Major,10,06,2022,7.0,3.32
+10,21345678,Malik,Ben Youssef,M,23.0,Business Analytics,Major,13,06,2022,5.0,3.3
+11,32456789,Amina,Ben Slimane,F,21.0,Marketing,Major,15,06,2022,2.0,3.29
+12,43567890,Amir,Mabrouk,M,23.0,Information Technology,Major,18,06,2022,6.0,3.28
+13,54678901,Leila,Hachicha,F,22.0,Accounting,Major,16,06,2022,7.0,3.27
+14,65789012,Bilal,Ben Salah,M,24.0,Marketing,Major,03,06,2022,5.0,3.26
+15,76890123,Hana,Nasri,F,24.0,Information Technology,Major,29,06,2022,7.0,3.25
+16,87901234,Tariq,Mejri,M,23.0,Accounting,Major,01,06,2022,5.0,3.24
+17,89012346,Noor,Ben Mahmoud,F,24.0,Information Technology,Major,26,06,2022,3.0,3.23
+18,90123457,Kareem,Jemai,M,23.0,Accounting,Major,24,06,2022,7.0,3.22
+19,12345679,Rania,Ben Cheikh,F,22.0,Accounting,Major,26,06,2022,2.0,3.21
+20,23456780,Samir,Hajji,M,22.0,Marketing,Major,08,06,2022,8.0,3.2
+21,34567891,Aaliyah,Ben Abdallah,F,23.0,Business Analytics,Major,11,06,2022,5.0,3.19
+22,45678902,Raheel,Chakroun,M,25.0,Accounting,Major,19,06,2022,7.0,3.18
+23,56789013,Ayesha,Ghazouani,F,22.0,Accounting,Major,05,06,2022,4.0,3.17
+25,78901235,Samira,Ben Hassen,F,22.0,Information Technology,Major,09,06,2022,5.0,3.15
+27,90123458,Sana,Khelifi,F,25.0,Business Analytics,Major,29,06,2022,4.0,3.13
+28,10234568,Farid,Ben Brahim,M,21.0,Accounting,Major,28,06,2022,3.0,3.12
+30,32456780,Kareema,Ben Mansour,M,22.0,Accounting,Major,25,06,2022,1.0,3.1
+31,43567892,Zayd,Ben Othman,F,24.0,Business Analytics,Major,06,06,2022,8.0,3.09
+32,54678903,Safa,Ben Miled,M,25.0,Information Technology,Major,11,06,2022,2.0,3.08
+33,65789014,Zainab,Khiari,F,21.0,Information Technology,Major,24,06,2022,5.0,3.07
+34,76890125,Hamza,Ben Romdhane,M,25.0,Marketing,Major,26,06,2022,1.0,3.06
+35,87901236,Yasmin,Ben Jemaa,F,23.0,Business Analytics,Major,02,06,2022,1.0,3.05
+36,89012348,Talal,Ben Arfa,M,23.0,Information Technology,Major,28,06,2022,2.0,3.04
+38,10234569,Khalid,Ben Hamouda,M,22.0,Information Technology,Major,19,06,2022,5.0,3.02
+39,21345680,Layth,Ben Salah,F,21.0,Finance,Major,09,06,2022,6.0,3.01
+40,32456791,Nadia,Ben Lamine,M,22.0,Accounting,Major,17,06,2022,4.0,3.0
+41,43567803,Tarek,Ben Aliya,F,23.0,Accounting,Major,09,06,2022,8.0,2.99
+42,54678914,Salma,Ben Choug,M,22.0,Finance,Major,23,06,2022,1.0,2.98
+44,76890136,Lina,Ben Mabrouk,M,21.0,Business Analytics,Major,15,06,2022,7.0,2.96
+45,87901247,Khaled,Ben Hmida,F,22.0,Finance,Major,03,06,2022,6.0,2.95
+46,89012349,Abeer,Ben Dhia,M,24.0,Accounting,Major,19,06,2022,3.0,2.94
+47,90123460,Jamal,Ben Kacem,F,24.0,Information Technology,Major,03,06,2022,1.0,2.93
+48,10234570,Sameera,Jeridi,M,24.0,Business Analytics,Major,14,06,2022,7.0,2.92
+49,21345681,Hadi,Ben Ayed,F,24.0,Information Technology,Major,15,06,2022,3.0,2.91
+50,32456792,Ahmed,Ben Ameur,M,21.0,Accounting,Major,24,06,2022,5.0,2.9
+51,43567804,Fatima,Ben Farhat,F,21.0,Business Analytics,Major,19,06,2022,7.0,2.89
+52,54678915,Omar,Ben Guirat,M,24.0,Marketing,Major,25,06,2022,2.0,2.88
+53,65789026,Aisha,Ben Rejeb,F,25.0,Finance,Major,13,06,2022,6.0,2.87
+54,76890137,Ali,Ben Rayana,M,22.0,Marketing,Major,12,06,2022,8.0,2.86
+56,89012350,Hassan,Ben Fadhel,M,21.0,Information Technology,Major,05,06,2022,6.0,2.84
+57,90123461,Zahra,Ben Boubaker,F,25.0,Finance,Major,12,06,2022,6.0,2.83
+58,10234571,Yusuf,Ben Abid,M,21.0,Business Analytics,Major,11,06,2022,5.0,2.82
+59,21345682,Nour,Ben Nasr,F,25.0,Marketing,Major,04,06,2022,5.0,2.81
+60,32456793,Malik,Ben Mansour,M,22.0,Marketing,Major,29,06,2022,3.0,2.8
+61,43567805,Amina,Ben Moussa,F,25.0,Accounting,Major,25,06,2022,4.0,2.79
+62,54678916,Amir,Ben Hmidi,M,24.0,Accounting,Major,14,06,2022,5.0,2.78
+63,65789027,Leila,Ben Salem,F,23.0,Information Technology,Major,02,06,2022,7.0,2.77
+65,87901249,Hana,Ben Aissa,F,25.0,Marketing,Major,12,06,2022,5.0,2.75
+66,89012351,Tariq,Ben Hmida,M,22.0,Information Technology,Major,15,06,2022,4.0,2.74
+67,90123462,Noor,Ben Cheikhrouhou,F,21.0,Accounting,Major,18,06,2022,7.0,2.73
+68,10234572,Kareem,Ben Slama,M,24.0,Accounting,Major,18,06,2022,5.0,2.72
+69,21345683,Rania,Ben Saidane,F,21.0,Finance,Major,01,06,2022,3.0,2.71
+70,32456794,Samir,Ben Jemai,M,22.0,Business Analytics,Major,26,06,2022,1.0,2.7
+71,43567806,Aaliyah,Ben Alaya,F,23.0,Finance,Major,28,06,2022,7.0,2.69
+72,54678917,Raheel,Ben Miled,M,23.0,Finance,Major,06,06,2022,7.0,2.68
+73,65789028,Ayesha,Ben Khalifa,F,21.0,Accounting,Major,18,06,2022,7.0,2.67
+75,87901250,Samira,Ben Fradj,F,25.0,Finance,Major,05,06,2022,2.0,2.65
+76,89012352,Nizar,Ben Jeddou,M,21.0,Finance,Major,11,06,2022,3.0,2.64
+77,90123463,Sana,Ben Chebbi,F,24.0,Business Analytics,Major,12,06,2022,7.0,2.63
+78,10234573,Farid,Ben Salah,M,21.0,Information Technology,Major,02,06,2022,2.0,2.62
+79,21345684,Amira,Ben Fadhloun,F,24.0,Marketing,Major,20,06,2022,8.0,2.61
+80,32456795,Kareema,Ben El Abed,M,24.0,Business Analytics,Major,24,06,2022,2.0,2.6
+81,43567807,Zayd,Ben Jaafar,F,22.0,Marketing,Major,02,06,2022,4.0,2.59
+82,54678918,Safa,Ben Ghozzi,M,23.0,Marketing,Major,17,06,2022,5.0,2.58
+83,65789029,Zainab,Ben Saida,F,23.0,Accounting,Major,29,06,2022,5.0,2.57
+84,76890140,Hamza,Ben Touati,M,25.0,Information Technology,Major,08,06,2022,1.0,2.56
+85,87901251,Yasmin,Ben Nejma,F,24.0,Marketing,Major,25,06,2022,1.0,2.55
+87,90123464,Shireen,Ben Jemai,F,23.0,Marketing,Major,11,06,2022,8.0,2.53
+88,10234574,Khalid,Ben Saidi,M,22.0,Information Technology,Major,05,06,2022,2.0,2.52
+89,21345685,Layth,Ben Hmida,F,24.0,Accounting,Major,24,06,2022,2.0,2.51
+90,32456796,Nadia,Ben Alaya,M,22.0,Accounting,Major,13,06,2022,3.0,2.5
+91,43567808,Tarek,Ben Guirat,F,23.0,Finance,Major,06,06,2022,2.0,2.49
+92,54678919,Salma,Ben Cheikh,M,21.0,Finance,Major,13,06,2022,5.0,2.48
+94,76890141,Lina,Ben Rached,M,22.0,Information Technology,Major,29,06,2022,6.0,2.46
+95,87901252,Khaled,Ben Fadhloun,F,21.0,Information Technology,Major,05,06,2022,1.0,2.45
+96,89012354,Abeer,Ben Jaafar,M,22.0,Information Technology,Major,26,06,2022,5.0,2.44
+97,90123465,Jamal,Ben Ghozzi,F,23.0,Business Analytics,Major,01,06,2022,3.0,2.43
+98,10234575,Sameera,Ben Saida,M,21.0,Information Technology,Major,07,06,2022,4.0,2.42
+99,21345686,Hadi,Ben Touati,F,22.0,Business Analytics,Major,10,06,2022,4.0,2.41
+101,43567809,Fatima,Ben Chibani,F,23.0,Finance,Major,14,06,2022,2.0,2.39
+103,65789031,Aisha,Ben Saidi,F,24.0,Business Analytics,Major,24,06,2022,2.0,2.37
+104,76890142,Ali,Ben Hmida,M,21.0,Finance,Major,07,06,2022,5.0,2.36
+105,87901253,Layla,Ben Alaya,F,24.0,Accounting,Major,25,06,2022,3.0,2.35
+106,89012355,Hassan,Ben Guirat,M,21.0,Finance,Major,07,06,2022,5.0,2.34
+108,10234576,Yusuf,Ben Amor,M,22.0,Information Technology,Major,08,06,2022,1.0,2.32
+110,32456798,Malik,Ben Fadhloun,M,22.0,Accounting,Major,20,06,2022,2.0,2.3
+111,43567810,Amina,Ben Jaafar,F,21.0,Business Analytics,Major,27,06,2022,7.0,2.29
+112,54678921,Amir,Ben Ghozzi,M,21.0,Accounting,Major,13,06,2022,1.0,2.28
+113,65789032,Leila,Ben Saida,F,25.0,Accounting,Major,25,06,2022,1.0,2.27
+114,76890143,Bilal,Ben Touati,M,23.0,Marketing,Major,23,06,2022,7.0,2.26
+115,87901254,Hana,Ben Nejma,F,22.0,Information Technology,Major,04,06,2022,2.0,2.25
+116,89012356,Tariq,Ben Chibani,M,25.0,Information Technology,Major,06,06,2022,4.0,2.24
+117,90123467,Noor,Ben Jemai,F,22.0,Accounting,Major,02,06,2022,1.0,2.23
+118,10234577,Kareem,Ben Saidi,M,23.0,Accounting,Major,04,06,2022,5.0,2.22
+119,21345688,Rania,Ben Hmida,F,22.0,Marketing,Major,26,06,2022,6.0,2.21
+120,32456799,Samir,Ben Alaya,M,22.0,Accounting,Major,08,06,2022,6.0,2.2
+121,43567811,Aaliyah,Ben Guirat,F,23.0,Marketing,Major,07,06,2022,8.0,2.19
+123,65789033,Ayesha,Ben Amor,F,23.0,Marketing,Major,22,06,2022,6.0,2.17
+124,76890144,Idris,Ben Rached,M,25.0,Accounting,Major,11,06,2022,3.0,2.16
+125,87901255,Samira,Ben Fadhloun,F,22.0,Information Technology,Major,19,06,2022,4.0,2.15
+126,89012357,Nizar,Ben Jaafar,M,21.0,Information Technology,Major,22,06,2022,7.0,2.14
+127,90123468,Sana,Ben Ghozzi,F,21.0,Accounting,Major,27,06,2022,4.0,2.13
+128,10234578,Farid,Ben Saida,M,22.0,Accounting,Major,25,06,2022,6.0,2.12
+129,21345689,Amira,Ben Touati,F,24.0,Information Technology,Major,21,06,2022,5.0,2.11
+130,32456800,Kareema,Ben Nejma,M,22.0,Business Analytics,Major,22,06,2022,7.0,2.1
+131,43567812,Zayd,Ben Chibani,F,21.0,Information Technology,Major,20,06,2022,5.0,2.09
+132,54678923,Safa,Ben Jemai,M,21.0,Accounting,Major,20,06,2022,7.0,2.08
+133,65789034,Zainab,Ben Saidi,F,21.0,Marketing,Major,22,06,2022,3.0,2.07
+134,76890145,Hamza,Ben Ali,M,22.0,Marketing,Major,28,06,2022,1.0,2.06
+135,87901256,Yasmin,Bouazizi,F,25.0,Information Technology,Major,05,06,2022,4.0,2.05
+136,89012358,Talal,Ghannouchi,M,22.0,Accounting,Major,01,06,2022,8.0,2.04
+138,12345678,Khalid,Cherif,M,24.0,Finance,Major,26,06,2022,8.0,2.02
+139,23456789,Layth,Sassi,F,25.0,Accounting,Major,13,06,2022,2.0,2.01
+140,34567890,Nadia,Khemiri,M,24.0,Finance,Major,15,06,2022,1.0,2.0
+141,45678901,Tarek,Ben Amor,F,24.0,Business Analytics,Major,20,06,2022,1.0,1.99
+142,56789012,Salma,Gharbi,M,21.0,Accounting,Major,20,06,2022,8.0,1.98
+143,67890123,Imran,Haddad,F,24.0,Finance,Major,19,06,2022,8.0,1.97
+144,78901234,Lina,Ben Youssef,M,23.0,Finance,Major,10,06,2022,8.0,1.96
+145,89012345,Khaled,Ben Slimane,F,24.0,Marketing,Major,24,06,2022,5.0,1.95
+146,90123456,Abeer,Mabrouk,M,25.0,Marketing,Major,02,06,2022,1.0,1.94
+147,10234567,Jamal,Hachicha,F,23.0,Accounting,Major,28,06,2022,6.0,1.93
+148,21345678,Sameera,Ben Salah,M,23.0,Accounting,Major,11,06,2022,6.0,1.92
+149,32456789,Hadi,Nasri,F,23.0,Information Technology,Major,09,06,2022,2.0,1.91
+150,43567890,Ahmed,Mejri,M,22.0,Marketing,Major,23,06,2022,6.0,1.9
+152,65789012,Omar,Jemai,M,21.0,Marketing,Major,15,06,2022,3.0,1.88
+153,76890123,Aisha,Ben Cheikh,F,25.0,Information Technology,Major,15,06,2022,8.0,1.87
+154,87901234,Ali,Hajji,M,21.0,Finance,Major,12,06,2022,3.0,1.86
+155,89012346,Layla,Ben Abdallah,F,22.0,Marketing,Major,23,06,2022,5.0,1.85
+157,12345679,Zahra,Ghazouani,F,24.0,Business Analytics,Major,16,06,2022,1.0,1.83
+158,23456780,Yusuf,Gabsi,M,23.0,Information Technology,Major,07,06,2022,4.0,1.82
+159,34567891,Nour,Ben Hassen,F,25.0,Business Analytics,Major,11,06,2022,1.0,1.81
+160,45678902,Malik,Rekik,M,21.0,Finance,Major,06,06,2022,5.0,1.8
+162,67890124,Amir,Ben Brahim,M,22.0,Accounting,Major,20,06,2022,3.0,1.78
+163,78901235,Leila,Dridi,F,24.0,Business Analytics,Major,22,06,2022,3.0,1.77
+164,89012347,Bilal,Ben Mansour,M,25.0,Information Technology,Major,10,06,2022,7.0,1.76
+165,90123458,Hana,Ben Othman,F,24.0,Information Technology,Major,02,06,2022,7.0,1.75
+166,10234568,Tariq,Ben Miled,M,23.0,Finance,Major,25,06,2022,7.0,1.74
+167,21345679,Noor,Khiari,F,25.0,Accounting,Major,02,06,2022,2.0,
+168,32456780,Kareem,Ben Romdhane,M,22.0,Finance,Major,22,06,2022,3.0,1.73
+169,43567892,Rania,Ben Jemaa,F,24.0,Finance,Major,21,06,2022,3.0,1.72
+170,54678903,Samir,Ben Arfa,M,21.0,Finance,Major,05,06,2022,7.0,1.86
+171,65789014,Aaliyah,Boujemaa,F,22.0,Finance,Major,09,06,2022,1.0,1.85
+172,76890125,Raheel,Ben Hamouda,M,25.0,Information Technology,Major,25,06,2022,1.0,1.84
+173,87901236,Ayesha,Ben Salah,F,24.0,Information Technology,Major,21,06,2022,6.0,1.83
+174,89012348,Idris,Ben Lamine,M,22.0,Marketing,Major,15,06,2022,2.0,1.82
+175,90123459,Samira,Ben Aliya,F,22.0,Accounting,Major,24,06,2022,2.0,1.81
+177,21345680,Sana,Kechrid,F,24.0,Finance,Major,09,06,2022,8.0,1.79
+178,32456791,Farid,Ben Mabrouk,M,21.0,Information Technology,Major,10,06,2022,4.0,1.78
+179,43567803,Amira,Ben Hmida,F,22.0,Information Technology,Major,02,06,2022,6.0,1.77
+180,54678914,Kareema,Ben Dhia,M,24.0,Business Analytics,Major,21,06,2022,2.0,1.76
+181,65789025,Zayd,Ben Kacem,F,21.0,Finance,Major,29,06,2022,8.0,1.75
+182,76890136,Safa,Jeridi,M,23.0,Finance,Major,07,06,2022,1.0,1.74
+183,87901247,Zainab,Ben Ayed,F,22.0,Finance,Major,12,06,2022,2.0,
+184,89012349,Hamza,Ben Ameur,M,23.0,Information Technology,Major,28,06,2022,3.0,1.73
+185,90123460,Yasmin,Ben Farhat,F,24.0,Marketing,Major,21,06,2022,3.0,1.72
+186,10234570,Talal,Ben Guirat,M,24.0,Finance,Major,18,06,2022,6.0,1.86
+187,21345681,Shireen,Ben Rejeb,F,23.0,Marketing,Major,26,06,2022,4.0,1.85
+188,32456792,Khalid,Ben Rayana,M,22.0,Marketing,Major,27,06,2022,7.0,1.84
+189,43567804,Layth,Khaldi,F,24.0,Business Analytics,Major,12,06,2022,1.0,1.83
+190,54678915,Nadia,Ben Fadhel,M,21.0,Marketing,Major,20,06,2022,8.0,1.82
+191,65789026,Tarek,Ben Boubaker,F,21.0,Finance,Major,03,06,2022,8.0,1.81
+192,76890137,Salma,Ben Abid,M,23.0,Information Technology,Major,03,06,2022,6.0,1.8
+193,87901248,Imran,Ben Nasr,F,23.0,Accounting,Major,25,06,2022,7.0,1.79
+194,89012350,Lina,Ben Mansour,M,22.0,Business Analytics,Major,18,06,2022,8.0,1.78
+195,90123461,Khaled,Ben Moussa,F,22.0,Information Technology,Major,19,06,2022,7.0,1.77
+196,10234571,Abeer,Ben Hmidi,M,23.0,Information Technology,Major,05,06,2022,3.0,1.76
+198,32456793,Sameera,Ben Hamza,M,23.0,Finance,Major,23,06,2022,3.0,1.74
+199,43567805,Hadi,Ben Aissa,F,22.0,Marketing,Major,26,06,2022,4.0,
+0,12345678,Ahmed,Youssef,M,19.0,Economics,freshman,15,06,2020,30.0,2.9
+1,23456789,Fatima,Ali,F,18.0,Technology,freshman,23,06,2020,26.0,2.0
+2,34567890,Omar,Mahmoud,M,18.0,Economics,freshman,23,06,2020,29.0,3.7
+3,45678901,Aisha,Amor,F,18.0,Maths,freshman,25,06,2020,24.0,2.6
+4,56789012,Ali,Slimane,M,19.0,Experimental Science,freshman,09,06,2020,21.0,2.0
+5,67890123,Layla,Abdelaziz,F,19.0,Technology,freshman,06,06,2020,23.0,1.5
+6,78901234,Hassan,Salah,M,18.0,Information Technology,freshman,08,06,2020,24.0,2.1
+7,89012345,Zahra,Abdallah,F,20.0,Technology,freshman,27,06,2020,23.0,3.5
+8,90123456,Yusuf,Jemaa,M,19.0,Maths,freshman,05,06,2020,20.0,1.5
+9,10234567,Nour,Moussa,F,18.0,Technology,freshman,12,06,2020,30.0,3.1
+10,21345678,Malik,Hamouda,M,18.0,Maths,freshman,24,06,2020,24.0,2.7
+11,32456789,Amina,Hassen,F,18.0,Economics,freshman,06,06,2020,25.0,2.5
+12,43567890,Amir,Ayed,M,19.0,Economics,freshman,11,06,2020,29.0,2.1
+13,54678901,Leila,Cheikh,F,20.0,Maths,freshman,12,06,2020,24.0,1.9000000000000001
+14,65789012,Bilal,Nasr,M,20.0,Maths,freshman,14,06,2020,22.0,1.6
+15,76890123,Hana,Ameur,F,19.0,Economics,freshman,24,06,2020,24.0,3.9
+16,87901234,Tariq,Mabrouk,M,19.0,Technology,freshman,10,06,2020,30.0,2.7
+17,89012346,Noor,Dhia,F,20.0,Experimental Science,freshman,21,06,2020,21.0,3.0
+18,90123457,Kareem,Mansour,M,18.0,Experimental Science,freshman,20,06,2020,21.0,2.0
+19,12345679,Rania,Romdhane,F,18.0,Technology,freshman,02,06,2020,25.0,1.9000000000000001
+20,23456780,Samir,Hmidi,M,19.0,Maths,freshman,28,06,2020,22.0,2.5
+21,34567891,Aaliyah,Sassi,F,18.0,Information Technology,freshman,08,06,2020,21.0,2.0
+22,45678902,Raheel,Brahim,M,18.0,Economics,freshman,17,06,2020,30.0,3.3
+23,56789013,Ayesha,Salem,F,18.0,Maths,freshman,11,06,2020,30.0,3.7
+24,67890124,Idris,Othman,M,18.0,Economics,freshman,01,06,2020,22.0,1.8
+25,78901235,Samira,Hmida,F,18.0,Maths,freshman,19,06,2020,28.0,2.1
+26,89012347,Nizar,Arfa,M,18.0,Economics,freshman,14,06,2020,23.0,3.1
+27,90123458,Sana,Rejeb,F,18.0,Maths,freshman,02,06,2020,28.0,2.6
+28,10234568,Farid,Miled,M,19.0,Maths,freshman,06,06,2020,29.0,2.2
+29,21345679,Amira,Khalifa,F,20.0,Economics,freshman,26,06,2020,30.0,1.8
+30,32456780,Kareema,Farhat,M,19.0,Maths,freshman,26,06,2020,26.0,1.7
+31,43567892,Zayd,Ammar,F,19.0,Maths,freshman,24,06,2020,22.0,1.9000000000000001
+32,54678903,Safa,Choug,M,18.0,Economics,freshman,11,06,2020,24.0,3.9
+33,65789014,Zainab,Fradj,F,19.0,Technology,freshman,29,06,2020,24.0,2.4
+34,76890125,Hamza,Lamine,M,20.0,Economics,freshman,13,06,2020,27.0,2.0
+35,87901236,Yasmin,Nejma,F,20.0,Technology,freshman,13,06,2020,22.0,2.3
+36,89012348,Talal,Chibani,M,19.0,Maths,freshman,25,06,2020,23.0,2.1
+37,90123459,Shireen,Bouaziz,F,20.0,Information Technology,freshman,09,06,2020,23.0,3.6
+38,10234569,Khalid,Abderrahmane,M,20.0,Economics,freshman,07,06,2020,21.0,2.8
+39,21345680,Layth,Jeddou,F,20.0,Economics,freshman,08,06,2020,22.0,2.9
+40,32456791,Nadia,Rayana,M,20.0,Maths,freshman,14,06,2020,21.0,2.5
+41,43567803,Tarek,Taieb,F,20.0,Maths,freshman,07,06,2020,22.0,2.4
+42,54678914,Salma,Salah,M,19.0,Economics,freshman,12,06,2020,29.0,1.9000000000000001
+43,65789025,Imran,Guirat,F,19.0,Maths,freshman,25,06,2020,26.0,2.2
+44,76890136,Lina,Cheikhrouhou,M,18.0,Economics,freshman,02,06,2020,26.0,3.6
+45,87901247,Khaled,Slama,F,18.0,Maths,freshman,12,06,2020,24.0,2.9
+46,89012349,Abeer,Saidane,M,20.0,Economics,freshman,11,06,2020,29.0,2.7
+47,90123460,Jamal,Jemai,F,18.0,Maths,freshman,13,06,2020,28.0,3.4
+48,10234570,Sameera,Hmida,M,18.0,Experimental Science,freshman,16,06,2020,23.0,2.4
+49,21345681,Hadi,Alaya,F,18.0,Economics,freshman,17,06,2020,25.0,1.7
+50,32456792,Nada,Hafsia,M,20.0,Maths,freshman,17,06,2020,28.0,1.5
+51,43567804,Raheem,Salah,F,18.0,Economics,freshman,21,06,2020,30.0,2.2
+52,54678915,Shaheen,Bechir,M,19.0,Economics,freshman,20,06,2020,22.0,3.8
+53,65789026,Naima,Gara,F,20.0,Maths,freshman,11,06,2020,23.0,1.9000000000000001
+54,76890137,Ziad,Achour,M,18.0,Maths,freshman,11,06,2020,23.0,2.5
+55,87901248,Fadil,Dhiab,F,19.0,Maths,freshman,26,06,2020,21.0,2.0
+56,89012350,Selma,Mhenni,M,20.0,Maths,freshman,05,06,2020,20.0,2.7
+57,90123461,Riyad,Lahmar,F,18.0,Information Technology,freshman,12,06,2020,22.0,2.8
+58,10234571,Fatimah,Amor,M,19.0,Information Technology,freshman,29,06,2020,25.0,3.7
+59,21345682,Iman,Mhamed,F,18.0,Economics,freshman,19,06,2020,22.0,2.0
+60,32456793,Hisham,Lahbib,M,19.0,Maths,freshman,05,06,2020,24.0,3.0
+61,43567805,Huda,Ouerdia,F,18.0,Technology,freshman,01,06,2020,21.0,3.3
+62,54678916,Ghassan,Azzouz,M,19.0,Information Technology,freshman,15,06,2020,29.0,2.7
+63,65789027,Saida,Ghachem,F,19.0,Economics,freshman,15,06,2020,21.0,3.1
+64,76890138,Rami,Othmane,M,18.0,Economics,freshman,12,06,2020,25.0,2.5
+65,87901249,Yasir,Hassine,F,20.0,Experimental Science,freshman,06,06,2020,26.0,2.5
+66,89012351,Amal,Chérif,M,20.0,Economics,freshman,19,06,2020,20.0,2.4
+67,90123462,Faisal,Younes,F,19.0,Experimental Science,freshman,18,06,2020,22.0,3.6
+68,10234572,Lubna,Jaafar,M,19.0,Experimental Science,freshman,07,06,2020,25.0,3.0
+69,21345683,Jamal,Ouerghi,F,19.0,Maths,freshman,26,06,2020,21.0,2.4
+70,32456794,Dana,Farhat,M,20.0,Maths,freshman,15,06,2020,20.0,3.6
+71,43567806,Tamer,Aziza,F,18.0,Maths,freshman,15,06,2020,28.0,2.2
+72,54678917,Rasha,Naceur,M,18.0,Maths,freshman,10,06,2020,23.0,3.0
+73,65789028,Ibtisam,Messaoud,F,20.0,Maths,freshman,24,06,2020,29.0,3.3
+74,76890139,Rami,Aïssa,M,19.0,Economics,freshman,15,06,2020,30.0,2.2
+75,87901250,Sawsan,Ghozzi,F,19.0,Economics,freshman,02,06,2020,22.0,3.6
+76,89012352,Anwar,Jazia,M,18.0,Maths,freshman,02,06,2020,28.0,3.1
+77,90123463,Rima,Saida,F,20.0,Economics,freshman,16,06,2020,25.0,3.7
+78,10234573,Adel,Saidi,M,20.0,Maths,freshman,12,06,2020,29.0,2.5
+79,21345684,Maysoon,Faraj,F,20.0,Economics,freshman,11,06,2020,23.0,2.7
+80,32456795,Fadi,Abdessalem,M,19.0,Technology,freshman,03,06,2020,28.0,2.0
+81,43567807,Yasmine,Yahia,F,20.0,Economics,freshman,27,06,2020,30.0,3.8
+82,54678918,Kamal,Kacem,M,20.0,Economics,freshman,08,06,2020,22.0,3.6
+83,65789029,Nabil,Zouari,F,20.0,Experimental Science,freshman,13,06,2020,27.0,2.6
+84,76890140,Sahar,Cheikh,M,19.0,Maths,freshman,27,06,2020,30.0,2.8
+85,87901251,Zain,Ouerfelli,F,18.0,Maths,freshman,02,06,2020,29.0,2.6
+86,89012353,Lubna,Khelil,M,20.0,Maths,freshman,05,06,2020,22.0,3.4
+87,90123464,Karim,Attia,F,18.0,Experimental Science,freshman,01,06,2020,29.0,3.1
+88,10234574,Hala,Hamed,M,19.0,Economics,freshman,11,06,2020,23.0,2.7
+89,21345685,Farida,Rached,F,20.0,Economics,freshman,07,06,2020,28.0,2.3
+90,32456796,Jawad,Saïd,M,20.0,Information Technology,freshman,17,06,2020,28.0,2.9
+91,43567808,Mona,Ghali,F,20.0,Information Technology,freshman,07,06,2020,28.0,2.9
+92,54678919,Hisham,Selma,M,19.0,Economics,freshman,20,06,2020,21.0,2.4
+93,65789030,Aida,Khaled,F,19.0,Economics,freshman,21,06,2020,28.0,2.2
+94,76890141,Yasser,Chafra,M,19.0,Maths,freshman,29,06,2020,22.0,3.3
+95,87901252,Farouk,Hnia,F,19.0,Experimental Science,freshman,11,06,2020,27.0,1.8
+96,89012354,Yara,Jeddi,M,20.0,Information Technology,freshman,16,06,2020,27.0,2.9
+97,90123465,Maher,Mahmoudi,F,19.0,Maths,freshman,10,06,2020,30.0,3.1
+98,10234575,Laila,Soussi,M,19.0,Maths,freshman,02,06,2020,21.0,3.0
+99,21345686,Munir,Soltane,F,19.0,Maths,freshman,02,06,2020,24.0,2.4
+100,32456797,Dalia,Jaballah,M,19.0,Maths,freshman,27,06,2020,28.0,1.7
+101,43567809,Tamer,Ayadi,F,18.0,Maths,freshman,01,06,2020,25.0,2.5
+102,54678920,Noura,Dhaou,M,18.0,Economics,freshman,21,06,2020,22.0,2.2
+103,65789031,Yousuf,Ltaief,F,18.0,Economics,freshman,18,06,2020,30.0,3.2
+104,76890142,Rima,Mhiri,M,18.0,Technology,freshman,26,06,2020,30.0,2.0
+105,87901253,Abdel,Hafaiedh,F,19.0,Maths,freshman,19,06,2020,29.0,3.6
+106,89012355,Rawan,Fadhel,M,20.0,Experimental Science,freshman,27,06,2020,22.0,1.7
+107,90123466,Jamila,Amiri,F,20.0,Economics,freshman,21,06,2020,28.0,3.7
+108,10234576,Talia,Tounsi,M,18.0,Technology,freshman,15,06,2020,28.0,1.7
+109,21345687,Amin,Ali,F,19.0,Technology,freshman,22,06,2020,20.0,2.6
+110,32456798,Nada,Messoud,M,19.0,Technology,freshman,21,06,2020,23.0,2.2
+111,43567810,Yusef,Zitouni,F,18.0,Maths,freshman,20,06,2020,25.0,2.1
+112,54678921,Inas,Hadj,M,18.0,Maths,freshman,20,06,2020,28.0,3.4
+113,65789032,Kareem,Hadj Ali,F,18.0,Experimental Science,freshman,26,06,2020,21.0,3.3
+114,76890143,Lamia,Abid,M,18.0,Information Technology,freshman,09,06,2020,28.0,2.8
+115,87901254,Taha,Aïcha,F,19.0,Economics,freshman,22,06,2020,20.0,1.9000000000000001
+116,89012356,Maha,Amara,M,20.0,Maths,freshman,09,06,2020,21.0,3.4
+117,90123467,Fahd,Slama,F,18.0,Economics,freshman,13,06,2020,21.0,2.0
+118,10234577,Layla,Néji,M,18.0,Maths,freshman,21,06,2020,20.0,2.8
+119,21345688,Mounir,Chebbi,F,20.0,Information Technology,freshman,18,06,2020,22.0,3.4
+120,32456799,Laila,Maïza,M,19.0,Experimental Science,freshman,06,06,2020,24.0,3.7
+121,43567811,Amr,Amor,F,18.0,Information Technology,freshman,09,06,2020,26.0,1.7
+122,54678922,Asma,Mabrouk,M,18.0,Economics,freshman,12,06,2020,20.0,2.0
+123,65789033,Marwan,Bahri,F,19.0,Technology,freshman,13,06,2020,26.0,2.1
+124,76890144,Yasmeen,Mrad,M,18.0,Technology,freshman,18,06,2020,30.0,3.8
+125,87901255,Kamila,Fredj,F,18.0,Economics,freshman,04,06,2020,29.0,2.1
+126,89012357,Waleed,Dali,M,18.0,Information Technology,freshman,16,06,2020,23.0,3.4
+127,90123468,Zeinab,Saidi,F,19.0,Economics,freshman,07,06,2020,27.0,3.6
+128,10234578,Ghazi,Zineb,M,19.0,Economics,freshman,11,06,2020,23.0,3.3
+129,21345689,Hayat,Ghenia,F,18.0,Economics,freshman,06,06,2020,25.0,2.1
+130,32456800,Rania,Slim,M,20.0,Economics,freshman,06,06,2020,22.0,3.1
+131,43567812,Nasser,Mrad,F,18.0,Economics,freshman,13,06,2020,21.0,3.8
+132,54678923,Dina,Chibane,M,18.0,Information Technology,freshman,07,06,2020,26.0,2.1
+133,65789034,Wadad,Rayane,F,18.0,Maths,freshman,11,06,2020,29.0,3.4
+134,76890145,Hani,Jomaa,M,20.0,Technology,freshman,29,06,2020,28.0,2.9
+135,87901256,Soraya,Nasr,F,18.0,Economics,freshman,28,06,2020,26.0,2.7
+136,89012358,Ayman,Aïssa,M,18.0,Maths,freshman,09,06,2020,26.0,1.7
+137,90123469,Malak,Ameur,F,20.0,Information Technology,freshman,15,06,2020,23.0,2.0
+138,12345678,Mona,Dridi,M,18.0,Economics,freshman,29,06,2020,30.0,2.3
+139,23456789,Ghada,Neji,F,19.0,Economics,freshman,08,06,2020,29.0,1.9000000000000001
+140,34567890,Bilal,Khelifa,M,20.0,Economics,freshman,15,06,2020,26.0,3.8
+141,45678901,Naima,Othmani,F,20.0,Technology,freshman,20,06,2020,23.0,2.6
+142,56789012,Tariq,Cheikh,M,19.0,Economics,freshman,01,06,2020,24.0,1.5
+143,67890123,Yasmina,Soussia,F,18.0,Economics,freshman,28,06,2020,30.0,2.9
+144,78901234,Ihab,Slimene,M,19.0,Economics,freshman,13,06,2020,21.0,3.0
+145,89012345,Sanaa,Brik,F,18.0,Economics,freshman,07,06,2020,24.0,2.9
+146,90123456,Hadiya,Gouider,M,18.0,Economics,freshman,02,06,2020,27.0,3.2
+147,10234567,Rashid,Ouanes,F,19.0,Economics,freshman,01,06,2020,21.0,1.7
+148,21345678,Nura,Ghalia,M,18.0,Economics,freshman,27,06,2020,22.0,1.7
+149,32456789,Sameh,Ouerghi,F,19.0,Maths,freshman,19,06,2020,25.0,3.9
+150,43567890,Rola,Chouikha,M,18.0,Information Technology,freshman,13,06,2020,26.0,3.6
+151,54678901,Amin,Gharbia,F,20.0,Information Technology,freshman,27,06,2020,30.0,3.3
+152,65789012,Siham,Romdhane,M,18.0,Maths,freshman,23,06,2020,20.0,3.9
+153,76890123,Rafiq,Mlouka,F,18.0,Technology,freshman,04,06,2020,29.0,2.0
+154,87901234,Lila,Nasri,M,20.0,Experimental Science,freshman,23,06,2020,20.0,3.5
+155,89012346,Nidal,Ouedraogo.,F,19.0,Economics,freshman,19,06,2020,24.0,2.5
+156,90123457,Sami,Youssef,M,19.0,Economics,freshman,26,06,2020,20.0,1.8
+157,12345679,Latifa,Ali,F,20.0,Information Technology,freshman,11,06,2020,22.0,3.6
+158,23456780,Mouna,Mahmoud,M,20.0,Experimental Science,freshman,16,06,2020,24.0,1.9000000000000001
+159,34567891,Zaki,Amor,F,20.0,Technology,freshman,04,06,2020,24.0,2.4
+160,45678902,Farida,Slimane,M,18.0,Experimental Science,freshman,23,06,2020,29.0,2.1
+161,56789013,Karam,Abdelaziz,F,19.0,Technology,freshman,05,06,2020,29.0,1.7
+162,67890124,Selwa,Salah,M,18.0,Technology,freshman,26,06,2020,26.0,1.7
+163,78901235,Hazem,Abdallah,F,19.0,Information Technology,freshman,20,06,2020,22.0,1.6
+164,89012347,Noura,Jemaa,M,18.0,Information Technology,freshman,21,06,2020,22.0,3.4
+165,90123458,Hakim,Moussa,F,20.0,Information Technology,freshman,20,06,2020,20.0,3.3
+166,10234568,Samira,Hamouda,M,18.0,Economics,freshman,25,06,2020,26.0,2.0
+167,21345679,Riyad,Hassen,F,20.0,Maths,freshman,28,06,2020,30.0,2.9
+168,32456780,Nadira,Ayed,M,20.0,Maths,freshman,06,06,2020,28.0,3.4
+169,43567892,Jihad,Cheikh,F,20.0,Economics,freshman,05,06,2020,30.0,2.1
+170,54678903,Rasha,Nasr,M,18.0,Economics,freshman,10,06,2020,30.0,2.5
+171,65789014,Rafiq,Ameur,F,18.0,Economics,freshman,27,06,2020,24.0,1.6
+172,76890125,Farida,Mabrouk,M,20.0,Maths,freshman,08,06,2020,28.0,2.2
+173,87901236,Bassam,Dhia,F,20.0,Maths,freshman,14,06,2020,24.0,1.9000000000000001
+174,89012348,Suha,Mansour,M,19.0,Maths,freshman,27,06,2020,28.0,2.5
+175,90123459,Adnan,Romdhane,F,18.0,Maths,freshman,16,06,2020,27.0,1.5
+176,10234569,Rana,Hmidi,M,19.0,Maths,freshman,02,06,2020,21.0,3.0
+177,21345680,Suhayb,Sassi,F,19.0,Experimental Science,freshman,04,06,2020,22.0,3.9
+178,32456791,Hala,Brahim,M,19.0,Maths,freshman,16,06,2020,29.0,3.0
+179,43567803,Kamal,Salem,F,20.0,Maths,freshman,20,06,2020,27.0,3.2
+180,54678914,Warda,Othman,M,18.0,Maths,freshman,04,06,2020,26.0,1.9000000000000001
+181,65789025,Malik,Hmida,F,20.0,Maths,freshman,24,06,2020,23.0,3.4
+182,76890136,Jihan,Arfa,M,19.0,Experimental Science,freshman,09,06,2020,26.0,1.6
+183,87901247,Ramzi,Rejeb,F,18.0,Maths,freshman,22,06,2020,22.0,3.8
+184,89012349,Nihal,Miled,M,20.0,Maths,freshman,07,06,2020,20.0,1.7
+185,90123460,Adham,Khalifa,F,18.0,Maths,freshman,27,06,2020,24.0,2.6
+186,10234570,Hanan,Farhat,M,19.0,Economics,freshman,05,06,2020,22.0,3.0
+187,21345681,Rami,Ammar,F,19.0,Information Technology,freshman,17,06,2020,29.0,2.8
+188,32456792,Lamis,Choug,M,19.0,Experimental Science,freshman,08,06,2020,23.0,3.2
+189,43567804,Qasim,Fradj,F,18.0,Economics,freshman,26,06,2020,30.0,2.3
+190,54678915,Jamila,Lamine,M,18.0,Technology,freshman,01,06,2020,26.0,2.2
+191,65789026,Tarek,Nejma,F,19.0,Experimental Science,freshman,03,06,2020,20.0,3.2
+192,76890137,Saida,Chibani,M,19.0,Economics,freshman,08,06,2020,24.0,1.5
+193,87901248,Khalid,Bouaziz,F,20.0,Economics,freshman,19,06,2020,28.0,2.4
+194,89012350,Amina,Abderrahmane,M,20.0,Economics,freshman,21,06,2020,26.0,3.5
+195,90123461,Anas,Jeddou,F,19.0,Economics,freshman,08,06,2020,27.0,3.2
+196,10234571,Yasmeen,Rayana,M,18.0,Maths,freshman,03,06,2020,30.0,1.9000000000000001
+197,21345682,Hossam,Taieb,F,18.0,Information Technology,freshman,07,06,2020,23.0,3.2
+198,32456793,Najwa,Salah,M,19.0,Economics,freshman,01,06,2020,26.0,3.7
+199,43567805,Bader,Guirat,F,18.0,Economics,freshman,16,06,2020,22.0,2.5
+0,90123470,Ahmed,Ben Ali,M,20.0,Economics,freshman,24,06,2021,25.0,3.9
+1,10234579,Fatima,Bouazizi,F,19.0,Maths,freshman,11,06,2021,21.0,1.9000000000000001
+2,21345690,Omar,Ghannouchi,M,19.0,Maths,freshman,17,06,2021,23.0,2.8
+3,32456801,Aisha,Trabelsi,F,18.0,Maths,freshman,10,06,2021,25.0,2.5
+4,43567813,Ali,Cherif,M,19.0,Economics,freshman,18,06,2021,26.0,1.9000000000000001
+5,54678924,Layla,Sassi,F,18.0,Information Technology,freshman,07,06,2021,23.0,2.4
+6,65789035,Hassan,Khemiri,M,20.0,Information Technology,freshman,12,06,2021,24.0,2.3
+7,76890146,Zahra,Ben Amor,F,19.0,Experimental Science,freshman,19,06,2021,30.0,3.3
+8,87901257,Yusuf,Gharbi,M,19.0,Maths,freshman,08,06,2021,28.0,1.5
+9,89012359,Nour,Haddad,F,19.0,Experimental Science,freshman,09,06,2021,21.0,1.6
+10,90123471,Malik,Ben Youssef,M,18.0,Economics,freshman,23,06,2021,20.0,3.9
+11,10234580,Amina,Ben Slimane,F,18.0,Maths,freshman,14,06,2021,21.0,1.8
+12,21345691,Amir,Mabrouk,M,19.0,Information Technology,freshman,27,06,2021,30.0,3.2
+13,32456802,Leila,Hachicha,F,20.0,Economics,freshman,26,06,2021,20.0,2.9
+14,43567814,Bilal,Ben Salah,M,20.0,Maths,freshman,23,06,2021,28.0,2.9
+15,54678925,Hana,Nasri,F,18.0,Information Technology,freshman,03,06,2021,25.0,2.5
+16,65789036,Tariq,Mejri,M,20.0,Information Technology,freshman,08,06,2021,27.0,3.7
+17,76890147,Noor,Ben Mahmoud,F,18.0,Experimental Science,freshman,08,06,2021,20.0,3.3
+18,87901258,Kareem,Jemai,M,20.0,Economics,freshman,11,06,2021,28.0,1.6
+19,89012360,Rania,Ben Cheikh,F,19.0,Maths,freshman,13,06,2021,27.0,1.9000000000000001
+20,90123472,Samir,Hajji,M,20.0,Economics,freshman,10,06,2021,23.0,2.4
+21,10234581,Aaliyah,Ben Abdallah,F,20.0,Economics,freshman,11,06,2021,23.0,1.9000000000000001
+22,21345692,Raheel,Chakroun,M,20.0,Economics,freshman,25,06,2021,29.0,2.0
+23,32456803,Ayesha,Ghazouani,F,18.0,Information Technology,freshman,15,06,2021,20.0,2.4
+24,43567815,Idris,Gabsi,M,20.0,Maths,freshman,20,06,2021,26.0,3.9
+25,54678926,Samira,Ben Hassen,F,19.0,Technology,freshman,04,06,2021,23.0,2.2
+26,65789037,Nizar,Rekik,M,19.0,Economics,freshman,17,06,2021,26.0,3.4
+27,76890148,Sana,Khelifi,F,18.0,Experimental Science,freshman,05,06,2021,23.0,3.5
+28,87901259,Farid,Ben Brahim,M,19.0,Economics,freshman,29,06,2021,29.0,3.1
+29,89012361,Amira,Dridi,F,19.0,Experimental Science,freshman,17,06,2021,27.0,2.9
+30,90123473,Kareema,Ben Mansour,M,19.0,Economics,freshman,18,06,2021,25.0,2.8
+31,10234582,Zayd,Ben Othman,F,20.0,Economics,freshman,11,06,2021,25.0,3.7
+32,21345693,Safa,Ben Miled,M,20.0,Technology,freshman,18,06,2021,23.0,2.4
+33,32456804,Zainab,Khiari,F,18.0,Maths,freshman,05,06,2021,20.0,3.4
+34,43567816,Hamza,Ben Romdhane,M,19.0,Economics,freshman,11,06,2021,21.0,1.6
+35,54678927,Yasmin,Ben Jemaa,F,20.0,Maths,freshman,15,06,2021,27.0,1.8
+36,65789038,Talal,Ben Arfa,M,19.0,Economics,freshman,26,06,2021,30.0,3.0
+37,76890149,Shireen,Boujemaa,F,20.0,Economics,freshman,16,06,2021,21.0,1.9000000000000001
+38,87901260,Khalid,Ben Hamouda,M,19.0,Economics,freshman,06,06,2021,21.0,2.5
+39,89012362,Layth,Ben Salah,F,18.0,Economics,freshman,17,06,2021,20.0,1.9000000000000001
+40,90123474,Nadia,Ben Lamine,M,18.0,Technology,freshman,14,06,2021,20.0,3.8
+41,10234583,Tarek,Ben Aliya,F,18.0,Information Technology,freshman,20,06,2021,26.0,3.1
+42,21345694,Salma,Ben Choug,M,19.0,Maths,freshman,19,06,2021,26.0,3.2
+43,32456805,Imran,Kechrid,F,20.0,Maths,freshman,28,06,2021,25.0,2.8
+44,43567817,Lina,Ben Mabrouk,M,20.0,Experimental Science,freshman,18,06,2021,27.0,3.8
+45,54678928,Khaled,Ben Hmida,F,20.0,Economics,freshman,02,06,2021,26.0,2.6
+46,65789039,Abeer,Ben Dhia,M,19.0,Maths,freshman,03,06,2021,26.0,2.3
+47,76890150,Jamal,Ben Kacem,F,20.0,Maths,freshman,15,06,2021,20.0,2.6
+48,87901261,Sameera,Jeridi,M,20.0,Economics,freshman,27,06,2021,28.0,3.3
+49,89012363,Hadi,Ben Ayed,F,19.0,Economics,freshman,27,06,2021,23.0,1.5
+50,90123475,Ahmed,Ben Ameur,M,18.0,Maths,freshman,16,06,2021,27.0,3.2
+51,10234584,Fatima,Ben Farhat,F,20.0,Information Technology,freshman,01,06,2021,28.0,2.2
+52,21345695,Omar,Ben Guirat,M,19.0,Experimental Science,freshman,27,06,2021,22.0,2.4
+53,32456806,Aisha,Ben Rejeb,F,19.0,Maths,freshman,24,06,2021,24.0,3.6
+54,43567818,Ali,Ben Rayana,M,20.0,Maths,freshman,11,06,2021,23.0,2.1
+55,54678929,Layla,Khaldi,F,18.0,Maths,freshman,27,06,2021,20.0,2.2
+56,65789040,Hassan,Ben Fadhel,M,20.0,Economics,freshman,09,06,2021,20.0,3.9
+57,76890151,Zahra,Ben Boubaker,F,18.0,Technology,freshman,16,06,2021,23.0,2.5
+58,87901262,Yusuf,Ben Abid,M,19.0,Technology,freshman,25,06,2021,22.0,2.0
+59,89012364,Nour,Ben Nasr,F,20.0,Experimental Science,freshman,17,06,2021,21.0,2.9
+60,90123476,Malik,Ben Mansour,M,18.0,Economics,freshman,29,06,2021,27.0,3.2
+61,10234585,Amina,Ben Moussa,F,20.0,Maths,freshman,06,06,2021,28.0,2.8
+62,21345696,Amir,Ben Hmidi,M,18.0,Information Technology,freshman,09,06,2021,30.0,1.5
+63,32456807,Leila,Ben Salem,F,18.0,Economics,freshman,18,06,2021,24.0,1.8
+64,43567819,Bilal,Ben Hamza,M,18.0,Technology,freshman,15,06,2021,27.0,3.2
+65,54678930,Hana,Ben Aissa,F,19.0,Technology,freshman,02,06,2021,20.0,1.6
+66,65789041,Tariq,Ben Hmida,M,19.0,Information Technology,freshman,19,06,2021,27.0,2.0
+67,76890152,Noor,Ben Cheikhrouhou,F,19.0,Maths,freshman,01,06,2021,22.0,1.8
+68,87901263,Kareem,Ben Slama,M,19.0,Maths,freshman,16,06,2021,22.0,1.6
+69,89012365,Rania,Ben Saidane,F,20.0,Economics,freshman,17,06,2021,29.0,1.8
+70,90123477,Samir,Ben Jemai,M,18.0,Technology,freshman,12,06,2021,23.0,3.9
+71,10234586,Aaliyah,Ben Alaya,F,20.0,Information Technology,freshman,02,06,2021,22.0,2.0
+72,21345697,Raheel,Ben Miled,M,18.0,Maths,freshman,08,06,2021,21.0,2.9
+73,32456808,Ayesha,Ben Khalifa,F,20.0,Experimental Science,freshman,13,06,2021,30.0,1.8
+74,43567820,Idris,Ben Ammar,M,20.0,Technology,freshman,24,06,2021,20.0,2.4
+75,54678931,Samira,Ben Fradj,F,19.0,Maths,freshman,07,06,2021,28.0,2.4
+76,65789042,Nizar,Ben Jeddou,M,18.0,Economics,freshman,20,06,2021,24.0,3.3
+77,76890153,Sana,Ben Chebbi,F,20.0,Experimental Science,freshman,23,06,2021,22.0,1.5
+78,87901264,Farid,Ben Salah,M,19.0,Maths,freshman,28,06,2021,26.0,1.7
+79,89012366,Amira,Ben Fadhloun,F,19.0,Maths,freshman,29,06,2021,22.0,2.7
+80,90123478,Kareema,Ben El Abed,M,19.0,Information Technology,freshman,16,06,2021,23.0,3.6
+81,10234587,Zayd,Ben Jaafar,F,19.0,Economics,freshman,14,06,2021,29.0,2.6
+82,21345698,Safa,Ben Ghozzi,M,19.0,Experimental Science,freshman,28,06,2021,29.0,3.1
+83,32456809,Zainab,Ben Saida,F,19.0,Economics,freshman,02,06,2021,24.0,2.3
+84,43567821,Hamza,Ben Touati,M,20.0,Economics,freshman,10,06,2021,24.0,2.1
+85,54678932,Yasmin,Ben Nejma,F,18.0,Maths,freshman,12,06,2021,25.0,3.8
+86,65789043,Talal,Ben Chibani,M,19.0,Maths,freshman,16,06,2021,23.0,2.4
+87,76890154,Shireen,Ben Jemai,F,19.0,Economics,freshman,14,06,2021,26.0,2.6
+88,87901265,Khalid,Ben Saidi,M,19.0,Economics,freshman,19,06,2021,24.0,2.1
+89,89012367,Layth,Ben Hmida,F,18.0,Economics,freshman,26,06,2021,30.0,2.8
+90,90123479,Nadia,Ben Alaya,M,20.0,Technology,freshman,09,06,2021,24.0,1.5
+91,10234588,Tarek,Ben Guirat,F,20.0,Maths,freshman,17,06,2021,28.0,2.4
+92,21345699,Salma,Ben Cheikh,M,20.0,Information Technology,freshman,11,06,2021,30.0,3.7
+93,32456810,Imran,Ben Amor,F,18.0,Experimental Science,freshman,26,06,2021,21.0,3.0
+94,43567822,Lina,Ben Rached,M,19.0,Technology,freshman,03,06,2021,24.0,2.6
+95,54678933,Khaled,Ben Fadhloun,F,20.0,Maths,freshman,24,06,2021,25.0,2.0
+96,65789044,Abeer,Ben Jaafar,M,18.0,Economics,freshman,13,06,2021,25.0,3.0
+97,76890155,Jamal,Ben Ghozzi,F,19.0,Experimental Science,freshman,13,06,2021,25.0,1.8
+98,87901266,Sameera,Ben Saida,M,18.0,Maths,freshman,05,06,2021,20.0,3.0
+99,89012368,Hadi,Ben Touati,F,18.0,Technology,freshman,07,06,2021,24.0,3.8
+100,90123480,Ahmed,Ben Nejma,M,20.0,Maths,freshman,14,06,2021,30.0,2.2
+101,10234589,Fatima,Ben Chibani,F,18.0,Maths,freshman,26,06,2021,24.0,2.5
+102,21345700,Omar,Ben Jemai,M,18.0,Economics,freshman,18,06,2021,24.0,3.1
+103,32456811,Aisha,Ben Saidi,F,18.0,Economics,freshman,23,06,2021,28.0,2.1
+104,43567823,Ali,Ben Hmida,M,19.0,Maths,freshman,01,06,2021,28.0,1.7
+105,54678934,Layla,Ben Alaya,F,18.0,Maths,freshman,15,06,2021,28.0,1.9000000000000001
+106,65789045,Hassan,Ben Guirat,M,19.0,Economics,freshman,08,06,2021,24.0,3.8
+107,76890156,Zahra,Ben Cheikh,F,18.0,Maths,freshman,29,06,2021,30.0,1.9000000000000001
+108,87901267,Yusuf,Ben Amor,M,20.0,Maths,freshman,19,06,2021,23.0,3.1
+109,89012369,Nour,Ben Rached,F,18.0,Economics,freshman,24,06,2021,29.0,3.1
+110,90123481,Malik,Ben Fadhloun,M,18.0,Maths,freshman,17,06,2021,23.0,2.3
+111,10234590,Amina,Ben Jaafar,F,20.0,Maths,freshman,23,06,2021,24.0,2.7
+112,21345701,Amir,Ben Ghozzi,M,18.0,Maths,freshman,07,06,2021,26.0,1.6
+113,32456812,Leila,Ben Saida,F,19.0,Economics,freshman,28,06,2021,24.0,2.1
+114,43567824,Bilal,Ben Touati,M,18.0,Economics,freshman,06,06,2021,30.0,3.6
+115,54678935,Hana,Ben Nejma,F,20.0,Maths,freshman,22,06,2021,30.0,3.8
+116,65789046,Tariq,Ben Chibani,M,20.0,Economics,freshman,24,06,2021,26.0,3.2
+117,76890157,Noor,Ben Jemai,F,20.0,Economics,freshman,12,06,2021,27.0,3.3
+118,87901268,Kareem,Ben Saidi,M,20.0,Information Technology,freshman,22,06,2021,27.0,3.4
+119,89012370,Rania,Ben Hmida,F,19.0,Economics,freshman,03,06,2021,23.0,3.0
+120,90123482,Samir,Ben Alaya,M,18.0,Economics,freshman,17,06,2021,30.0,2.2
+121,10234591,Aaliyah,Ben Guirat,F,18.0,Economics,freshman,25,06,2021,27.0,3.8
+122,21345702,Raheel,Ben Cheikh,M,20.0,Economics,freshman,10,06,2021,30.0,3.6
+123,32456813,Ayesha,Ben Amor,F,19.0,Technology,freshman,22,06,2021,20.0,3.6
+124,43567825,Idris,Ben Rached,M,20.0,Information Technology,freshman,16,06,2021,29.0,1.8
+125,54678936,Samira,Ben Fadhloun,F,18.0,Technology,freshman,06,06,2021,21.0,2.2
+126,65789047,Nizar,Ben Jaafar,M,18.0,Maths,freshman,12,06,2021,28.0,3.6
+127,76890158,Sana,Ben Ghozzi,F,19.0,Economics,freshman,07,06,2021,30.0,2.4
+128,87901269,Farid,Ben Saida,M,20.0,Technology,freshman,05,06,2021,28.0,3.5
+129,89012371,Amira,Ben Touati,F,19.0,Technology,freshman,07,06,2021,30.0,3.2
+130,90123483,Kareema,Ben Nejma,M,20.0,Maths,freshman,06,06,2021,24.0,1.7
+131,10234592,Zayd,Ben Chibani,F,19.0,Information Technology,freshman,04,06,2021,26.0,3.7
+132,21345703,Safa,Ben Jemai,M,19.0,Economics,freshman,29,06,2021,20.0,1.8
+133,32456814,Zainab,Ben Saidi,F,20.0,Maths,freshman,23,06,2021,24.0,2.2
+134,43567826,Hamza,Ben Ali,M,20.0,Economics,freshman,25,06,2021,25.0,1.9000000000000001
+135,54678937,Yasmin,Bouazizi,F,20.0,Economics,freshman,13,06,2021,26.0,3.5
+136,65789048,Talal,Ghannouchi,M,20.0,Economics,freshman,01,06,2021,28.0,2.7
+137,76890159,Shireen,Trabelsi,F,18.0,Experimental Science,freshman,24,06,2021,20.0,3.9
+138,87901270,Khalid,Cherif,M,20.0,Economics,freshman,12,06,2021,22.0,2.2
+139,89012372,Layth,Sassi,F,20.0,Maths,freshman,12,06,2021,29.0,2.6
+140,90123484,Nadia,Khemiri,M,18.0,Maths,freshman,17,06,2021,26.0,3.6
+141,10234593,Tarek,Ben Amor,F,20.0,Experimental Science,freshman,13,06,2021,20.0,3.0
+142,21345704,Salma,Gharbi,M,18.0,Economics,freshman,10,06,2021,27.0,3.0
+143,32456815,Imran,Haddad,F,19.0,Information Technology,freshman,11,06,2021,27.0,3.8
+144,43567827,Lina,Ben Youssef,M,20.0,Maths,freshman,14,06,2021,24.0,3.7
+145,54678938,Khaled,Ben Slimane,F,18.0,Maths,freshman,03,06,2021,29.0,3.6
+146,65789049,Abeer,Mabrouk,M,20.0,Economics,freshman,16,06,2021,22.0,3.2
+147,76890160,Jamal,Hachicha,F,20.0,Economics,freshman,09,06,2021,26.0,2.8
+148,87901271,Sameera,Ben Salah,M,20.0,Maths,freshman,07,06,2021,20.0,2.0
+149,89012373,Hadi,Nasri,F,20.0,Technology,freshman,18,06,2021,24.0,2.1
+150,90123485,Ahmed,Mejri,M,19.0,Technology,freshman,04,06,2021,25.0,2.3
+151,90123470,Fatima,Ben Mahmoud,F,19.0,Maths,freshman,28,06,2021,25.0,3.8
+152,10234579,Omar,Jemai,M,19.0,Maths,freshman,24,06,2021,28.0,3.7
+153,21345690,Aisha,Ben Cheikh,F,18.0,Maths,freshman,26,06,2021,23.0,1.8
+154,32456801,Ali,Hajji,M,20.0,Maths,freshman,09,06,2021,21.0,1.7
+155,43567813,Layla,Ben Abdallah,F,18.0,Information Technology,freshman,25,06,2021,30.0,2.2
+156,54678924,Hassan,Chakroun,M,18.0,Technology,freshman,17,06,2021,30.0,3.8
+157,65789035,Zahra,Ghazouani,F,18.0,Information Technology,freshman,04,06,2021,23.0,2.1
+158,76890146,Yusuf,Gabsi,M,19.0,Maths,freshman,05,06,2021,28.0,1.8
+159,87901257,Nour,Ben Hassen,F,18.0,Maths,freshman,11,06,2021,20.0,3.6
+160,89012359,Malik,Rekik,M,20.0,Experimental Science,freshman,12,06,2021,24.0,2.9
+161,90123471,Amina,Khelifi,F,19.0,Information Technology,freshman,16,06,2021,20.0,3.8
+162,10234580,Amir,Ben Brahim,M,18.0,Maths,freshman,23,06,2021,25.0,2.5
+163,21345691,Leila,Dridi,F,19.0,Technology,freshman,05,06,2021,20.0,1.6
+164,32456802,Bilal,Ben Mansour,M,18.0,Economics,freshman,01,06,2021,25.0,2.2
+165,43567814,Hana,Ben Othman,F,18.0,Economics,freshman,02,06,2021,26.0,3.1
+166,54678925,Tariq,Ben Miled,M,18.0,Technology,freshman,10,06,2021,21.0,3.1
+167,65789036,Noor,Khiari,F,20.0,Information Technology,freshman,19,06,2021,28.0,3.1
+168,76890147,Kareem,Ben Romdhane,M,18.0,Economics,freshman,07,06,2021,28.0,3.4
+169,87901258,Rania,Ben Jemaa,F,19.0,Technology,freshman,16,06,2021,27.0,2.8
+170,89012360,Samir,Ben Arfa,M,20.0,Maths,freshman,15,06,2021,29.0,3.9
+171,90123472,Aaliyah,Boujemaa,F,20.0,Technology,freshman,14,06,2021,29.0,3.6
+172,10234581,Raheel,Ben Hamouda,M,20.0,Maths,freshman,08,06,2021,27.0,3.0
+173,21345692,Ayesha,Ben Salah,F,20.0,Maths,freshman,02,06,2021,30.0,1.9000000000000001
+174,32456803,Idris,Ben Lamine,M,20.0,Information Technology,freshman,04,06,2021,27.0,3.0
+175,43567815,Samira,Ben Aliya,F,20.0,Technology,freshman,08,06,2021,20.0,2.9
+176,54678926,Nizar,Ben Choug,M,19.0,Maths,freshman,17,06,2021,28.0,2.3
+177,65789037,Sana,Kechrid,F,19.0,Economics,freshman,05,06,2021,26.0,3.8
+178,76890148,Farid,Ben Mabrouk,M,20.0,Maths,freshman,08,06,2021,26.0,3.7
+179,87901259,Amira,Ben Hmida,F,20.0,Maths,freshman,26,06,2021,22.0,3.3
+180,89012361,Kareema,Ben Dhia,M,18.0,Maths,freshman,29,06,2021,26.0,1.9000000000000001
+181,90123473,Zayd,Ben Kacem,F,19.0,Maths,freshman,06,06,2021,29.0,1.7
+182,10234582,Safa,Jeridi,M,18.0,Experimental Science,freshman,14,06,2021,28.0,3.5
+183,21345693,Zainab,Ben Ayed,F,19.0,Maths,freshman,01,06,2021,25.0,2.8
+184,32456804,Hamza,Ben Ameur,M,20.0,Experimental Science,freshman,08,06,2021,24.0,1.5
+185,43567816,Yasmin,Ben Farhat,F,20.0,Economics,freshman,23,06,2021,27.0,2.6
+186,54678927,Talal,Ben Guirat,M,20.0,Technology,freshman,27,06,2021,26.0,3.8
+187,65789038,Shireen,Ben Rejeb,F,20.0,Maths,freshman,02,06,2021,28.0,2.6
+188,76890149,Khalid,Ben Rayana,M,18.0,Information Technology,freshman,13,06,2021,24.0,3.6
+189,87901260,Layth,Khaldi,F,20.0,Economics,freshman,06,06,2021,22.0,3.9
+190,89012362,Nadia,Ben Fadhel,M,20.0,Economics,freshman,25,06,2021,25.0,3.1
+191,90123474,Tarek,Ben Boubaker,F,18.0,Economics,freshman,09,06,2021,29.0,3.0
+192,10234583,Salma,Ben Abid,M,19.0,Information Technology,freshman,25,06,2021,29.0,3.8
+193,21345694,Imran,Ben Nasr,F,18.0,Information Technology,freshman,14,06,2021,22.0,2.8
+194,32456805,Lina,Ben Mansour,M,19.0,Information Technology,freshman,13,06,2021,26.0,2.3
+195,43567817,Khaled,Ben Moussa,F,19.0,Information Technology,freshman,13,06,2021,24.0,3.3
+196,54678928,Abeer,Ben Hmidi,M,18.0,Maths,freshman,22,06,2021,20.0,3.0
+197,65789039,Jamal,Ben Salem,F,18.0,Technology,freshman,04,06,2021,25.0,3.7
+198,76890150,Sameera,Ben Hamza,M,20.0,Economics,freshman,08,06,2021,20.0,3.4
+199,87901261,Hadi,Ben Aissa,F,18.0,Economics,freshman,02,06,2021,24.0,2.5
+0,123456789,Hassan,Ben Ali,M,19.0,Experimental Science,freshman,07,06,2022,25.0,2.1
+1,234567890,Amina,Bouazizi,F,19.0,Technology,freshman,16,06,2022,27.0,3.3
+2,345678901,Mohamed,Ghannouchi,M,19.0,Economics,freshman,05,06,2022,30.0,1.6
+3,456789012,Lina,Trabelsi,F,19.0,Economics,freshman,13,06,2022,28.0,1.8
+4,567890123,Ahmed,Ben Yedder,M,20.0,Maths,freshman,16,06,2022,21.0,2.1
+5,678901234,Samira,Khedher,F,19.0,Maths,freshman,12,06,2022,21.0,3.8
+6,789012345,Zayd,Bouhlel,M,19.0,Maths,freshman,28,06,2022,27.0,3.3
+7,890123456,Nour,Mzali,F,18.0,Economics,freshman,18,06,2022,22.0,1.8
+8,901234567,Aliya,Jomni,M,20.0,Experimental Science,freshman,14,06,2022,28.0,1.7
+9,112233445,Hadi,Ben Salah,F,18.0,Maths,freshman,05,06,2022,20.0,2.7
+10,223344556,Fatima,Mezghanni,M,19.0,Maths,freshman,24,06,2022,24.0,3.5
+11,334455667,Imran,Ben Jemaa,F,18.0,Information Technology,freshman,14,06,2022,25.0,2.4
+12,445566778,Abeer,Gharbi,M,18.0,Maths,freshman,17,06,2022,20.0,3.6
+13,556677889,Idris,Hamrouni,F,19.0,Technology,freshman,26,06,2022,26.0,3.7
+14,667788990,Sameera,Hajlaoui,M,18.0,Economics,freshman,13,06,2022,24.0,2.2
+15,778899001,Layth,Othmani,F,20.0,Experimental Science,freshman,27,06,2022,26.0,2.0
+16,889900112,Nadia,Ben Arfa,M,19.0,Maths,freshman,15,06,2022,29.0,2.3
+17,990011223,Talal,Mejri,F,19.0,Economics,freshman,13,06,2022,27.0,3.0
+18,111122334,Ayesha,Ben Amor,M,20.0,Economics,freshman,15,06,2022,30.0,3.0
+19,222233445,Amir,Ben Brahim,F,19.0,Technology,freshman,11,06,2022,21.0,3.8
+20,333344556,Sana,Bouazza,M,18.0,Information Technology,freshman,20,06,2022,20.0,2.3
+21,444455667,Kareem,Najar,F,20.0,Experimental Science,freshman,04,06,2022,21.0,3.6
+22,555566778,Hana,Feki,M,20.0,Economics,freshman,05,06,2022,24.0,3.2
+23,666677889,Malik,Saied,F,18.0,Technology,freshman,20,06,2022,28.0,3.7
+24,777788990,Rania,Ben Romdhane,M,20.0,Information Technology,freshman,11,06,2022,27.0,3.2
+25,888899001,Bilal,Ghribi,F,20.0,Maths,freshman,26,06,2022,29.0,3.5
+26,999900112,Farida,Ben Miled,M,18.0,Maths,freshman,11,06,2022,21.0,2.0
+27,111100000,Sami,Belhadj,F,19.0,Maths,freshman,24,06,2022,28.0,2.3
+28,222211111,Amira,Zayani,M,20.0,Maths,freshman,29,06,2022,22.0,3.8
+29,333322222,Omar,Ben Hassen,F,19.0,Experimental Science,freshman,04,06,2022,26.0,3.0
+30,444433333,Noor,Ben Mahmoud,M,19.0,Experimental Science,freshman,12,06,2022,29.0,3.1
+31,555544444,Raheel,Laaribi,F,19.0,Economics,freshman,21,06,2022,27.0,3.3
+32,666655555,Safa,Ben Slimane,M,20.0,Experimental Science,freshman,28,06,2022,27.0,1.5
+33,777766666,Kareema,Trabelsi,F,20.0,Maths,freshman,20,06,2022,22.0,3.5
+34,888877777,Zahid,Bouzid,M,20.0,Maths,freshman,18,06,2022,21.0,1.8
+35,999988888,Layla,Cherif,F,19.0,Maths,freshman,03,06,2022,22.0,2.1
+36,100000000,Amin,Hachicha,M,19.0,Experimental Science,freshman,02,06,2022,20.0,3.2
+37,211111111,Shireen,Ben Mustapha,F,19.0,Maths,freshman,03,06,2022,23.0,3.1
+38,322222222,Jamil,Driss,M,19.0,Economics,freshman,13,06,2022,20.0,2.1
+39,433333333,Amani,Ben Othman,F,20.0,Maths,freshman,03,06,2022,20.0,2.3
+40,544444444,Ilyas,Mansouri,M,18.0,Economics,freshman,01,06,2022,23.0,3.8
+41,655555555,Farida,Jeridi,F,19.0,Maths,freshman,26,06,2022,24.0,2.1
+42,766666666,Zakariya,Ben Saad,M,18.0,Maths,freshman,21,06,2022,29.0,2.1
+43,877777777,Zainab,Khmiri,F,18.0,Technology,freshman,20,06,2022,25.0,3.3
+44,988888888,Khaled,Ben Halima,M,20.0,Economics,freshman,09,06,2022,20.0,2.4
+45,999000111,Yasmin,Karray,F,20.0,Maths,freshman,09,06,2022,28.0,1.8
+46,111122222,Yassin,Ben Thabet,M,19.0,Information Technology,freshman,15,06,2022,22.0,3.8
+47,222233333,Aisha,Khemiri,F,18.0,Experimental Science,freshman,04,06,2022,22.0,3.9
+48,333344444,Karim,Mejdoub,M,19.0,Technology,freshman,05,06,2022,26.0,1.8
+49,444455555,Salma,Ben Khelifa,F,18.0,Economics,freshman,12,06,2022,25.0,3.0
+50,555566666,Hatem,Ben Abdallah,M,20.0,Economics,freshman,14,06,2022,25.0,2.3
+51,666677777,Laila,Ben Rejeb,F,18.0,Maths,freshman,27,06,2022,25.0,1.7
+52,777788888,Zaki,Ben Hamouda,M,19.0,Experimental Science,freshman,23,06,2022,27.0,3.5
+53,888899999,Rim,Ben Moussa,F,18.0,Experimental Science,freshman,21,06,2022,26.0,3.8
+54,900011111,Hamza,Ben Ayed,M,19.0,Economics,freshman,12,06,2022,20.0,2.9
+55,111122222,Aysha,Ben Dhia,F,19.0,Maths,freshman,14,06,2022,21.0,3.1
+56,222233333,Hamid,Bahri,M,18.0,Maths,freshman,11,06,2022,22.0,2.1
+57,333344444,Yasir,Ben Reguig,F,20.0,Economics,freshman,01,06,2022,22.0,2.9
+58,444455555,Safia,Ben Hmida,M,18.0,Economics,freshman,02,06,2022,30.0,3.7
+59,555566666,Karima,Ben Jazia,F,20.0,Economics,freshman,01,06,2022,28.0,2.7
+60,666677777,Walid,Dridi,M,20.0,Economics,freshman,16,06,2022,25.0,2.3
+61,777788888,Nada,Felfel,F,19.0,Information Technology,freshman,25,06,2022,30.0,3.5
+62,888899999,Tarek,Ben Jannet,M,20.0,Experimental Science,freshman,19,06,2022,28.0,3.3
+63,900011111,Sarah,Ben Aissa,F,20.0,Technology,freshman,01,06,2022,21.0,3.7
+64,111122222,Abdel,Hadj Ali,M,20.0,Maths,freshman,16,06,2022,27.0,2.3
+65,222233333,Amal,Ben Belgacem,F,18.0,Experimental Science,freshman,08,06,2022,24.0,3.0
+66,333344444,Tariq,Helali,M,19.0,Maths,freshman,29,06,2022,26.0,2.0
+67,444455555,Nada,Ben Mabrouk,F,20.0,Maths,freshman,18,06,2022,24.0,1.5
+68,555566666,Samir,Ksontini,M,18.0,Maths,freshman,28,06,2022,25.0,3.0
+69,666677777,Dina,Ben Mhenni,F,19.0,Information Technology,freshman,09,06,2022,24.0,1.5
+70,777788888,Ziad,Ben Jemaa,M,19.0,Maths,freshman,29,06,2022,25.0,3.9
+71,888899999,Mona,Lahiani,F,18.0,Maths,freshman,24,06,2022,27.0,3.5
+72,900011111,Kais,Laatiri,M,20.0,Technology,freshman,19,06,2022,24.0,1.6
+73,111122222,Souad,Ben Jaballah,F,18.0,Economics,freshman,09,06,2022,29.0,3.3
+74,222233333,Majid,Ben Naceur,M,19.0,Economics,freshman,13,06,2022,29.0,3.8
+75,333344444,Dounia,Mestiri,F,19.0,Maths,freshman,05,06,2022,27.0,2.6
+76,444455555,Youssef,Ben Maaouia,M,19.0,Maths,freshman,05,06,2022,24.0,2.3
+77,555566666,Lamia,Mokni,F,20.0,Maths,freshman,20,06,2022,26.0,3.4
+78,666677777,Yasin,Masmoudi,M,20.0,Economics,freshman,05,06,2022,25.0,1.6
+79,777788888,Hayfa,Naouar,F,20.0,Information Technology,freshman,29,06,2022,20.0,1.5
+80,888899999,Walid,Ben Youssef,M,19.0,Economics,freshman,15,06,2022,25.0,2.0
+81,900011111,Rasha,Trabelsi,F,18.0,Maths,freshman,12,06,2022,22.0,2.4
+82,111122222,Ali,Ben Chikha,M,20.0,Experimental Science,freshman,03,06,2022,23.0,1.6
+83,222233333,Houda,Rekik,F,18.0,Economics,freshman,08,06,2022,30.0,2.2
+84,333344444,Nabil,Boujnah,M,18.0,Technology,freshman,21,06,2022,24.0,3.3
+85,444455555,Sabrina,Ben Yacoub,F,18.0,Maths,freshman,25,06,2022,25.0,1.7
+86,555566666,Adel,Ben Gharbia,M,20.0,Information Technology,freshman,15,06,2022,26.0,2.6
+87,666677777,Rym,Bahi,F,19.0,Economics,freshman,17,06,2022,21.0,2.0
+88,777788888,Mohsen,Ben Moumen,M,20.0,Maths,freshman,29,06,2022,28.0,2.0
+89,888899999,Saida,Ben Daoud,F,18.0,Maths,freshman,26,06,2022,27.0,3.4
+90,900011111,Ayman,Gzara,M,20.0,Economics,freshman,13,06,2022,28.0,2.1
+91,111122222,Rima,Hammami,F,19.0,Technology,freshman,29,06,2022,21.0,3.0
+92,222233333,Hamdi,Ben Jemaa,M,18.0,Information Technology,freshman,26,06,2022,24.0,3.8
+93,333344444,Asma,Ben Hamouda,F,19.0,Economics,freshman,23,06,2022,26.0,2.6
+94,444455555,Belal,Ben Nasr,M,18.0,Economics,freshman,21,06,2022,21.0,2.4
+95,555566666,Amina,Kouki,F,19.0,Maths,freshman,14,06,2022,27.0,1.8
+96,666677777,Marwan,Klibi,M,18.0,Economics,freshman,09,06,2022,22.0,2.0
+97,777788888,Nadia,Boukadida,F,19.0,Maths,freshman,28,06,2022,26.0,3.4
+98,888899999,Zied,Ben Ouezdou,M,19.0,Technology,freshman,06,06,2022,25.0,3.7
+99,900011111,Sana,Soussi,F,19.0,Maths,freshman,04,06,2022,25.0,2.7
+100,111122222,Hakim,Ben Moussa,M,18.0,Economics,freshman,17,06,2022,25.0,1.5
+101,222233333,Naima,Rachedi,F,19.0,Maths,freshman,06,06,2022,29.0,2.5
+102,333344444,Khaled,Ben Dali,M,18.0,Experimental Science,freshman,21,06,2022,30.0,3.6
+103,444455555,Noura,Slama,F,18.0,Maths,freshman,01,06,2022,20.0,2.4
+104,555566666,Khalil,Ammar,M,20.0,Experimental Science,freshman,26,06,2022,22.0,3.8
+105,666677777,Ola,Ben Arous,F,20.0,Economics,freshman,04,06,2022,23.0,2.4
+106,777788888,Hamid,Chiboub,M,20.0,Economics,freshman,05,06,2022,22.0,3.3
+107,888899999,Rania,Ghorbel,F,19.0,Economics,freshman,24,06,2022,23.0,2.2
+108,900011111,Zouhair,Ben Alaya,M,18.0,Economics,freshman,10,06,2022,28.0,1.9000000000000001
+109,111122222,Sabah,Tabboubi,F,19.0,Maths,freshman,18,06,2022,24.0,3.5
+110,222233333,Karim,Ben Salem,M,20.0,Maths,freshman,29,06,2022,29.0,2.1
+111,333344444,Amira,Matri,F,20.0,Technology,freshman,01,06,2022,21.0,2.9
+112,444455555,Hisham,Driss,M,18.0,Maths,freshman,05,06,2022,27.0,1.8
+113,555566666,Ines,Krid,F,20.0,Economics,freshman,18,06,2022,21.0,3.2
+114,666677777,Radhia,Ben Nsira,M,19.0,Experimental Science,freshman,25,06,2022,24.0,3.4
+115,777788888,Farid,Khemiri,F,19.0,Experimental Science,freshman,23,06,2022,20.0,2.0
+116,888899999,Lila,Ben Saada,M,19.0,Economics,freshman,27,06,2022,23.0,2.2
+117,900011111,Faouzi,Ben Ncib,F,20.0,Economics,freshman,25,06,2022,28.0,2.9
+118,111122222,Dora,Ben Alaya,M,20.0,Maths,freshman,24,06,2022,28.0,2.8
+119,222233333,Jihad,Ben Khaled,F,18.0,Experimental Science,freshman,07,06,2022,24.0,3.9
+120,333344444,Kaouthar,Ben Hmida,M,18.0,Economics,freshman,20,06,2022,27.0,3.1
+121,444455555,Ayoub,Ksouri,F,19.0,Maths,freshman,02,06,2022,20.0,2.9
+122,555566666,Sondos,Boudabous,M,18.0,Experimental Science,freshman,09,06,2022,29.0,2.4
+123,666677777,Nizar,Ben Naceur,F,19.0,Maths,freshman,21,06,2022,21.0,3.4
+124,777788888,Amel,Bejaoui,M,18.0,Information Technology,freshman,01,06,2022,21.0,2.6
+125,888899999,Fahd,Ben Dhaou,F,20.0,Economics,freshman,06,06,2022,30.0,2.8
+126,900011111,Meriem,Ben Jaafar,M,19.0,Experimental Science,freshman,13,06,2022,29.0,1.7
+127,111122222,Jalel,Ben Jeddou,F,19.0,Experimental Science,freshman,29,06,2022,26.0,2.3
+128,222233333,Rihab,Jlassi,M,18.0,Economics,freshman,21,06,2022,30.0,2.1
+129,333344444,Mohamad,Ben Hassine,F,20.0,Maths,freshman,14,06,2022,25.0,2.9
+130,444455555,Fatma,Ben Farhat,M,19.0,Maths,freshman,21,06,2022,30.0,3.8
+131,555566666,Wissem,Ben Lahmar,F,18.0,Information Technology,freshman,25,06,2022,29.0,3.2
+132,666677777,Salwa,Baraket,M,19.0,Maths,freshman,29,06,2022,24.0,2.1
+133,777788888,Fares,Ghazouani,F,20.0,Economics,freshman,29,06,2022,25.0,3.8
+134,888899999,Wafa,Ben Sassi,M,20.0,Economics,freshman,27,06,2022,25.0,2.6
+135,900011111,Imed,Ben Miled,F,19.0,Economics,freshman,05,06,2022,29.0,2.9
+136,111122222,Hela,Ben Nejma,M,19.0,Experimental Science,freshman,09,06,2022,30.0,2.6
+137,222233333,Sami,Ben Neji,F,20.0,Economics,freshman,07,06,2022,22.0,1.9000000000000001
+138,333344444,Dora,Ben Saidane,M,19.0,Information Technology,freshman,05,06,2022,28.0,3.2
+139,444455555,Abdel,Ben Braiek,F,19.0,Maths,freshman,15,06,2022,30.0,2.9
+140,555566666,Khadija,Saadaoui,M,18.0,Maths,freshman,20,06,2022,29.0,3.0
+141,666677777,Riadh,Ben Henda,F,18.0,Economics,freshman,29,06,2022,24.0,3.4
+142,777788888,Sabrine,Ben Chibani,M,18.0,Economics,freshman,06,06,2022,30.0,1.9000000000000001
+143,888899999,Hatem,Ben Touati,F,19.0,Maths,freshman,25,06,2022,24.0,1.8
+144,900011111,Saloua,Ben Chakroun,M,20.0,Economics,freshman,16,06,2022,29.0,2.2
+145,111122222,Ghazi,Ben Rejab,F,20.0,Experimental Science,freshman,24,06,2022,23.0,3.1
+146,222233333,Naziha,Gharbi,M,19.0,Economics,freshman,17,06,2022,22.0,2.6
+147,333344444,Ahmed,Ben Maatoug,F,19.0,Technology,freshman,17,06,2022,22.0,3.2
+148,444455555,Maha,Ben Ferjani,M,18.0,Technology,freshman,24,06,2022,21.0,2.4
+149,555566666,Anis,Ben Kacem,F,20.0,Maths,freshman,12,06,2022,20.0,2.0
+150,666677777,Nabiha,Ben Soussen,M,20.0,Experimental Science,freshman,09,06,2022,27.0,2.7
+151,777788888,Ramzi,Cherif,F,19.0,Information Technology,freshman,22,06,2022,29.0,2.3
+152,888899999,Faiza,Ben Ghozlen,M,20.0,Economics,freshman,10,06,2022,25.0,2.7
+153,900011111,Fawzi,Ben Jeridi,F,19.0,Maths,freshman,03,06,2022,21.0,3.0
+154,111122222,Soumaya,Ben Hmida,M,18.0,Economics,freshman,26,06,2022,20.0,1.7
+155,222233333,Ridha,Bouslama,F,18.0,Maths,freshman,08,06,2022,30.0,3.8
+156,333344444,Habiba,Ben Hmida,M,20.0,Economics,freshman,18,06,2022,20.0,2.3
+157,444455555,Moez,Ben Jerad,F,18.0,Economics,freshman,07,06,2022,27.0,1.7
+158,555566666,Oumaima,Ben Jaouadi,M,19.0,Technology,freshman,24,06,2022,30.0,1.6
+159,666564874,Wajdi,Ben Jbeli,F,18.0,Economics,freshman,03,06,2022,21.0,2.9
+160,123456789,Manel,Ben Kalthoum,M,20.0,Economics,freshman,09,06,2022,27.0,3.9
+161,234567890,Mohsen,Khmiri,F,18.0,Economics,freshman,27,06,2022,27.0,1.9000000000000001
+162,345678901,Ahlem,Ben Kraiem,M,19.0,Information Technology,freshman,18,06,2022,27.0,3.1
+163,456789012,Slim,Ben Makhlouf,F,20.0,Technology,freshman,04,06,2022,28.0,1.9000000000000001
+164,567890123,Zeineb,Ben Mansour,M,18.0,Experimental Science,freshman,16,06,2022,30.0,2.1
+165,678901234,Kais,Ben Messaoud,F,19.0,Maths,freshman,28,06,2022,27.0,3.5
+166,789012345,Feriel,Ben Mustapha,M,20.0,Experimental Science,freshman,25,06,2022,22.0,2.8
+167,890123456,Fathi,Saafi,F,19.0,Economics,freshman,25,06,2022,22.0,2.0
+168,901234567,Sana,Ben Nasr,M,20.0,Technology,freshman,12,06,2022,25.0,3.5
+169,112233445,Nabil,Ben Ouerhani,F,18.0,Maths,freshman,06,06,2022,25.0,3.5
+170,223344556,Siham,Ben Romdhane,M,18.0,Economics,freshman,03,06,2022,22.0,1.5
+171,334455667,Kamel,Ben Salah,F,20.0,Experimental Science,freshman,07,06,2022,26.0,2.1
+172,445566778,Ibtissem,Ben Salem,M,20.0,Information Technology,freshman,28,06,2022,22.0,3.2
+173,556677889,Tahar,Ben Saoud,F,18.0,Maths,freshman,22,06,2022,23.0,1.7
+174,667788990,Houda,Ben Sassi,M,19.0,Experimental Science,freshman,11,06,2022,26.0,2.1
+175,778899001,Walid,Ben Slimane,F,20.0,Experimental Science,freshman,10,06,2022,29.0,3.3
+176,889900112,Khouloud,Ben Soussi,M,20.0,Economics,freshman,27,06,2022,24.0,2.0
+177,990011223,Mourad,Ben Taieb,F,20.0,Technology,freshman,21,06,2022,24.0,3.5
+178,111122334,Olfa,Ben Yacoub,M,18.0,Economics,freshman,09,06,2022,30.0,3.7
+179,222233445,Khaled,Ben Yedder,F,19.0,Maths,freshman,06,06,2022,30.0,2.7
+180,333344556,Amel,Ben Youssef,M,18.0,Maths,freshman,20,06,2022,22.0,2.1
+181,444455667,Nabil,Ben Zekri,F,20.0,Technology,freshman,13,06,2022,25.0,2.1
+182,555566778,Haifa,Ben Zouari,M,20.0,Maths,freshman,19,06,2022,26.0,3.3
+183,666677889,Mohamed,Ben Ammar,F,20.0,Economics,freshman,25,06,2022,29.0,2.8
+184,777788990,Basma,Bouazizi,M,19.0,Maths,freshman,07,06,2022,29.0,3.7
+185,888899001,Yassine,Bouhlel,F,18.0,Economics,freshman,18,06,2022,27.0,2.3
+186,999900112,Aida,Cherif,M,18.0,Economics,freshman,18,06,2022,26.0,3.9
+187,111100000,Malek,Dridi,F,19.0,Maths,freshman,01,06,2022,23.0,1.5
+188,222211111,Nawel,Feki,M,20.0,Economics,freshman,09,06,2022,25.0,2.5
+189,333322222,Ahmed,Ghannouchi,F,18.0,Economics,freshman,14,06,2022,21.0,3.6
+190,444433333,Khadija,Hachicha,M,19.0,Economics,freshman,18,06,2022,23.0,3.0
+191,555544444,Ali,Helali,F,18.0,Economics,freshman,29,06,2022,27.0,3.1
+192,666655555,Rania,Jomni,M,19.0,Economics,freshman,01,06,2022,29.0,3.4
+193,777766666,Riadh,Khmiri,F,20.0,Maths,freshman,13,06,2022,25.0,1.9000000000000001
+194,888877777,Salwa,Krid,M,20.0,Maths,freshman,06,06,2022,24.0,1.9000000000000001
+195,999988888,Youssef,Mzali,F,20.0,Economics,freshman,27,06,2022,27.0,2.4
+196,100000000,Asma,Rekik,M,19.0,Economics,freshman,01,06,2022,28.0,2.7
+197,211111111,Anis,Saied,F,18.0,Information Technology,freshman,10,06,2022,20.0,3.3
+198,322222222,Leila,Zayani,M,19.0,Experimental Science,freshman,12,06,2022,21.0,2.0
+199,433333333,Kais,Bahri,F,20.0,Experimental Science,freshman,26,06,2022,27.0,1.8
+0,7632451,Ahmed,Bouazza,M,18.0,Maths,sophomore,25,06,2022,23.0,2.9
+1,9023145,Fatima,Benali,F,18.0,Economics,sophomore,13,06,2022,25.0,1.5
+2,5184736,Yasir,Boudjemaa,M,20.0,Technology,sophomore,10,06,2022,28.0,2.0
+3,6948203,Amina,Belkacem,F,18.0,Maths,sophomore,19,06,2022,25.0,3.4
+4,1278549,Malik,Ait Kaci,M,20.0,Technology,sophomore,14,06,2022,22.0,3.1
+5,6359872,Djamila,Boumediene,F,18.0,Experimental Science,sophomore,06,06,2022,27.0,3.8
+6,3048752,Sofiane,Ouali,M,18.0,Economics,sophomore,09,06,2022,24.0,3.3
+7,8901245,Laila,Bouzid,F,20.0,Information Technology,sophomore,26,06,2022,29.0,2.5
+8,4367890,Hamza,Amara,M,18.0,Experimental Science,sophomore,02,06,2022,24.0,2.2
+9,5712348,Zahra,Meziane,F,20.0,Technology,sophomore,13,06,2022,24.0,3.3
+10,9203841,Bilal,Hamdi,M,20.0,Experimental Science,sophomore,10,06,2022,29.0,1.8
+11,6874301,Salima,Bouziane,F,20.0,Economics,sophomore,21,06,2022,29.0,3.1
+12,2398567,Hichem,Belkheir,M,18.0,Maths,sophomore,07,06,2022,20.0,2.7
+13,8031742,Naima,Slimane,F,19.0,Maths,sophomore,27,06,2022,25.0,2.6
+14,6152978,Kamel,Boudjellal,M,19.0,Information Technology,sophomore,01,06,2022,23.0,2.4
+15,4920785,Nadia,Zeroual,F,19.0,Information Technology,sophomore,18,06,2022,28.0,3.5
+16,3562187,Youssef,Saadi,M,19.0,Experimental Science,sophomore,19,06,2022,20.0,1.5
+17,1248709,Khadija,Ait Ali,F,20.0,Economics,sophomore,25,06,2022,25.0,3.6
+18,7890314,Amir,Boucetta,M,20.0,Maths,sophomore,14,06,2022,20.0,3.6
+19,5432981,Fatiha,Meziani,F,19.0,Experimental Science,sophomore,17,06,2022,27.0,3.3
+20,1879650,Karim,Bensaada,M,19.0,Maths,sophomore,01,06,2022,23.0,2.3
+21,9023841,Zineb,Kadi,F,19.0,Maths,sophomore,21,06,2022,24.0,3.2
+22,4532168,Walid,Guermat,M,19.0,Maths,sophomore,28,06,2022,24.0,2.2
+23,6790832,Samira,Abdi,F,18.0,Economics,sophomore,03,06,2022,21.0,3.4
+24,2197654,Rachid,Bouhafs,M,20.0,Maths,sophomore,25,06,2022,30.0,3.1
+25,5043128,Soraya,Terkmani,F,18.0,Technology,sophomore,06,06,2022,20.0,2.0
+26,8657902,Mourad,Ait Amar,M,18.0,Experimental Science,sophomore,09,06,2022,24.0,2.5
+27,3482107,Samia,Bouaicha,F,20.0,Economics,sophomore,28,06,2022,29.0,3.8
+28,7321984,Tarik,Bouderbala,M,19.0,Economics,sophomore,28,06,2022,21.0,2.5
+29,6902431,Hanane,Ait Said,F,19.0,Maths,sophomore,06,06,2022,20.0,3.8
+30,1273458,Abdelkader,Bensaid,M,20.0,Economics,sophomore,23,06,2022,24.0,1.9000000000000001
+31,5012398,Nour,Kaci,F,19.0,Economics,sophomore,18,06,2022,23.0,1.5
+32,8764302,Hocine,Benali,M,19.0,Maths,sophomore,20,06,2022,30.0,1.7
+33,2831749,Farida,Ait Ziane,F,20.0,Economics,sophomore,22,06,2022,23.0,2.2
+34,4678092,Adel,Sadi,M,20.0,Economics,sophomore,21,06,2022,29.0,2.5
+35,3142875,Rima,Boudiaf,F,19.0,Information Technology,sophomore,04,06,2022,24.0,3.5
+36,9587203,Nordine,Ait Hamouda,M,20.0,Experimental Science,sophomore,21,06,2022,29.0,1.8
+37,6218403,Nadira,Chibane,F,20.0,Maths,sophomore,07,06,2022,28.0,3.9
+38,3842107,Khaled,Boulares,M,19.0,Maths,sophomore,08,06,2022,28.0,2.9
+39,5987023,Naima,Guerrouj,F,19.0,Information Technology,sophomore,09,06,2022,29.0,2.5
+40,1934875,Djamel,Ziani,M,18.0,Economics,sophomore,02,06,2022,24.0,3.7
+41,8723416,Sabrina,Kadri,F,20.0,Economics,sophomore,19,06,2022,21.0,1.7
+42,5062814,Riad,Boudalia,M,20.0,Technology,sophomore,10,06,2022,26.0,3.4
+43,4398702,Khadija,Benkaci,F,18.0,Maths,sophomore,11,06,2022,28.0,1.7
+44,6840312,Anissa,Slimani,M,18.0,Economics,sophomore,17,06,2022,21.0,3.5
+45,2751934,Amir,Belkhadem,F,18.0,Maths,sophomore,02,06,2022,29.0,3.2
+46,8436051,Amina,Bouzar,M,18.0,Economics,sophomore,04,06,2022,29.0,3.3
+47,1693472,Ilyes,Goumidi,F,19.0,Experimental Science,sophomore,23,06,2022,20.0,2.5
+48,7203984,Kenza,Ait Haddad,M,19.0,Economics,sophomore,25,06,2022,22.0,2.1
+49,5846702,Yacine,Salmi,F,18.0,Economics,sophomore,02,06,2022,22.0,3.5
+50,3921854,Hiba,Tabet,M,19.0,Information Technology,sophomore,29,06,2022,29.0,3.6
+51,8307462,Nabil,Guenifi,F,18.0,Maths,sophomore,21,06,2022,27.0,1.6
+52,5478320,Nawel,Allam,M,19.0,Maths,sophomore,15,06,2022,29.0,3.7
+53,1083724,Adil,Derradji,F,18.0,Maths,sophomore,17,06,2022,28.0,2.5
+54,6931748,Dalila,Boukhalfa,M,18.0,Economics,sophomore,05,06,2022,25.0,2.5
+55,2158967,Hassen,Oussalah,F,19.0,Maths,sophomore,03,06,2022,25.0,3.5
+56,4768302,Noura,Hamdadou,M,20.0,Economics,sophomore,10,06,2022,22.0,2.6
+57,9283451,Tarek,Belhadj,F,20.0,Maths,sophomore,05,06,2022,22.0,2.6
+58,6345018,Leila,Medjani,M,18.0,Economics,sophomore,22,06,2022,30.0,2.6
+59,8014723,Hakim,Boukaabous,F,19.0,Maths,sophomore,20,06,2022,27.0,2.6
+60,1298460,Samra,Benkoula,M,19.0,Maths,sophomore,07,06,2022,29.0,3.9
+61,5673089,Rachid,Zeghdoud,F,18.0,Economics,sophomore,22,06,2022,30.0,3.6
+62,7432158,Salma,Bennaoui,M,18.0,Maths,sophomore,19,06,2022,29.0,3.1
+63,4820173,Djamel,Berrahal,F,19.0,Maths,sophomore,07,06,2022,29.0,2.0
+64,6701934,Yasmine,Boughedir,M,20.0,Information Technology,sophomore,15,06,2022,29.0,3.7
+65,3572409,Amir,Guerfi,F,20.0,Information Technology,sophomore,17,06,2022,30.0,1.9000000000000001
+66,2140958,Nadira,Kichou,M,18.0,Maths,sophomore,20,06,2022,23.0,3.6
+67,7892430,Walid,Tassili,F,20.0,Maths,sophomore,24,06,2022,30.0,1.5
+68,5301764,Mouna,Adjali,M,18.0,Experimental Science,sophomore,02,06,2022,22.0,1.9000000000000001
+69,1624958,Nacer,Kessaï,F,18.0,Information Technology,sophomore,03,06,2022,23.0,3.0
+70,8750432,Rym,Meradji,M,20.0,Technology,sophomore,28,06,2022,20.0,2.5
+71,3148602,Yassine,Boudechiche,F,20.0,Maths,sophomore,03,06,2022,28.0,2.9
+72,9624703,Salima,Hammoudi,M,18.0,Technology,sophomore,01,06,2022,30.0,2.3
+73,4078132,Khaled,Bessaoud,F,19.0,Economics,sophomore,10,06,2022,20.0,3.4
+74,5987041,Souad,Khalfallah,M,18.0,Technology,sophomore,27,06,2022,28.0,3.5
+75,2361584,Bilal,Mezouar,F,19.0,Maths,sophomore,08,06,2022,25.0,2.9
+76,7850342,Rania,Terki,M,20.0,Maths,sophomore,02,06,2022,27.0,3.0
+77,4198760,Abdou,Benyahia,F,18.0,Economics,sophomore,13,06,2022,24.0,2.9
+78,6928341,Rania,Boulenouar,M,18.0,Maths,sophomore,08,06,2022,20.0,3.7
+79,1508927,Karim,Kellal,F,19.0,Maths,sophomore,26,06,2022,26.0,3.1
+80,3482079,Samia,Bouzidi,M,19.0,Maths,sophomore,17,06,2022,23.0,3.9
+81,8703912,Rafik,Belaïd,F,19.0,Maths,sophomore,11,06,2022,26.0,3.1
+82,5019783,Sana,Ferroukhi,M,18.0,Economics,sophomore,17,06,2022,29.0,3.8
+83,6270934,Zaki,Hadef,F,18.0,Economics,sophomore,02,06,2022,21.0,3.4
+84,9352408,Leila,Khelifi,M,18.0,Information Technology,sophomore,27,06,2022,23.0,3.0
+85,4678135,Karim,Derriche,F,18.0,Maths,sophomore,20,06,2022,20.0,3.1
+86,2187650,Samira,Bougara,M,19.0,Information Technology,sophomore,26,06,2022,22.0,2.6
+87,8032156,Amine,Mehennaoui,F,19.0,Maths,sophomore,05,06,2022,30.0,1.6
+88,5946802,Yousra,Hamza,M,18.0,Economics,sophomore,28,06,2022,25.0,2.2
+89,3762148,Mehdi,Belkessa,F,19.0,Information Technology,sophomore,11,06,2022,21.0,3.1
+90,1095843,Khadidja,Guendouz,M,20.0,Maths,sophomore,25,06,2022,30.0,2.9
+91,8650742,Younes,Bougrara,F,18.0,Technology,sophomore,29,06,2022,29.0,2.1
+92,4297186,Fadila,Terfaya,M,20.0,Economics,sophomore,16,06,2022,25.0,3.8
+93,7850234,Yacine,Tafat,F,18.0,Maths,sophomore,14,06,2022,22.0,2.1
+94,5134072,Amel,Harbi,M,19.0,Economics,sophomore,14,06,2022,22.0,3.7
+95,6901274,Ahmed,Boukhari,F,18.0,Economics,sophomore,25,06,2022,20.0,2.8
+96,2475038,Souhila,Bouhadi,M,19.0,Maths,sophomore,27,06,2022,23.0,1.9000000000000001
+97,8234951,Abderrahmane,Hamel,F,19.0,Economics,sophomore,23,06,2022,29.0,1.8
+98,6012384,Selma,Ziani,M,20.0,Economics,sophomore,25,06,2022,26.0,1.9000000000000001
+99,3840172,Mourad,Benchikh,F,20.0,Economics,sophomore,23,06,2022,25.0,3.7
+100,7590238,Chaima,Chibani,M,19.0,Economics,sophomore,02,06,2022,23.0,2.8
+101,1684023,Tarek,Benkaci,F,19.0,Economics,sophomore,19,06,2022,22.0,2.2
+102,5024138,Salima,Bensaïd,M,18.0,Economics,sophomore,09,06,2022,25.0,3.2
+103,9374812,Mohand,Tassili,F,19.0,Economics,sophomore,28,06,2022,30.0,1.8
+104,3615892,Lila,Boumedienne,M,20.0,Information Technology,sophomore,27,06,2022,26.0,3.4
+105,7403128,Yacine,Gueddouda,F,19.0,Economics,sophomore,13,06,2022,28.0,1.5
+106,2548093,Meriem,Boukhalfa,M,20.0,Information Technology,sophomore,24,06,2022,24.0,2.3
+107,6785031,Walid,Aïssaoui,F,18.0,Economics,sophomore,01,06,2022,22.0,2.4
+108,4198650,Fadila,Derkaoui,M,19.0,Technology,sophomore,23,06,2022,24.0,3.2
+109,9320841,Nassim,Terki,F,20.0,Maths,sophomore,06,06,2022,23.0,3.5
+110,5784203,Lina,Khalfallah,M,20.0,Economics,sophomore,04,06,2022,27.0,2.3
+111,3147980,Hicham,Meziani,F,18.0,Maths,sophomore,12,06,2022,21.0,2.7
+112,6051789,Ghania,Khelifi,M,18.0,Maths,sophomore,18,06,2022,27.0,3.7
+113,8214903,Samir,Boughedir,F,20.0,Information Technology,sophomore,16,06,2022,21.0,2.4
+114,1490623,Yasmina,Guerfi,M,20.0,Technology,sophomore,27,06,2022,21.0,2.8
+115,3870152,Kamal,Kichou,F,19.0,Information Technology,sophomore,09,06,2022,23.0,3.4
+116,6948012,Houda,Tassili,M,18.0,Economics,sophomore,02,06,2022,20.0,2.8
+117,5032481,Zaki,Adjali,F,20.0,Information Technology,sophomore,15,06,2022,28.0,3.6
+118,8762104,Mouna,Kessaï,M,18.0,Information Technology,sophomore,12,06,2022,25.0,2.0
+119,2358417,Karim,Meradji,F,19.0,Technology,sophomore,29,06,2022,22.0,1.9000000000000001
+120,9810342,Meriem,Boudechiche,M,18.0,Information Technology,sophomore,12,06,2022,24.0,1.5
+121,4685093,Samir,Hammoudi,F,19.0,Maths,sophomore,07,06,2022,23.0,1.6
+122,7201634,Dina,Bessaoud,M,19.0,Economics,sophomore,19,06,2022,23.0,2.8
+123,2954780,Khaled,Khalfallah,F,20.0,Maths,sophomore,05,06,2022,28.0,3.8
+124,6328401,Anissa,Belaïd,M,20.0,Maths,sophomore,01,06,2022,27.0,2.1
+125,8012543,Yassine,Ferroukhi,F,20.0,Maths,sophomore,26,06,2022,26.0,2.5
+126,1275834,Salwa,Hadef,M,19.0,Economics,sophomore,20,06,2022,25.0,3.4
+127,5798142,Amir,Khelifi,F,20.0,Information Technology,sophomore,03,06,2022,25.0,3.5
+128,3462108,Chahrazed,Derriche,M,18.0,Maths,sophomore,28,06,2022,25.0,3.3
+129,9038741,Abdel,Bougara,F,20.0,Information Technology,sophomore,24,06,2022,30.0,2.9
+130,5189376,Yousra,Mehennaoui,M,19.0,Maths,sophomore,19,06,2022,22.0,1.6
+131,6248031,Said,Hamza,F,18.0,Maths,sophomore,05,06,2022,23.0,3.9
+132,4598102,Nour,Belkessa,M,20.0,Economics,sophomore,29,06,2022,23.0,3.2
+133,7820134,Samir,Guendouz,F,20.0,Economics,sophomore,08,06,2022,27.0,3.0
+134,3152948,Hanifa,Bougrara,M,20.0,Information Technology,sophomore,13,06,2022,30.0,2.6
+135,6784501,Wassim,Terfaya,F,18.0,Maths,sophomore,14,06,2022,28.0,3.1
+136,1934678,Rania,Tafat,M,19.0,Information Technology,sophomore,02,06,2022,28.0,2.8
+137,8420579,Abdelkrim,Harbi,F,18.0,Information Technology,sophomore,15,06,2022,24.0,3.3
+138,2378091,Nadia,Boukhari,M,20.0,Maths,sophomore,28,06,2022,21.0,2.2
+139,5062873,Yazid,Bouhadi,F,20.0,Maths,sophomore,27,06,2022,21.0,3.4
+140,9813452,Kenza,Hamel,M,18.0,Maths,sophomore,24,06,2022,30.0,2.3
+141,7462318,Rachid,Ziani,F,18.0,Economics,sophomore,23,06,2022,25.0,3.0
+142,3208467,Farida,Benchikh,M,19.0,Information Technology,sophomore,24,06,2022,25.0,1.6
+143,6951832,Abdellah,Chibani,F,20.0,Economics,sophomore,21,06,2022,21.0,2.7
+144,8540923,Nawal,Benkaci,M,20.0,Economics,sophomore,16,06,2022,29.0,2.8
+145,1309874,Hakim,Bensaïd,F,19.0,Economics,sophomore,03,06,2022,24.0,2.3
+146,5870412,Amira,Tassili,M,18.0,Technology,sophomore,26,06,2022,26.0,2.1
+147,4037158,Samir,Boumedienne,F,19.0,Experimental Science,sophomore,16,06,2022,29.0,2.4
+148,2196357,Nadia,Gueddouda,M,18.0,Experimental Science,sophomore,28,06,2022,23.0,2.0
+149,6740923,Abderrahim,Boukhalfa,F,18.0,Economics,sophomore,26,06,2022,23.0,2.6
+150,1582974,Ouarda,Aïssaoui,M,18.0,Technology,sophomore,25,06,2022,28.0,2.2
+151,8320761,Abdelmajid,Derkaoui,F,20.0,Economics,sophomore,05,06,2022,28.0,1.8
+152,5021483,Samira,Terki,M,18.0,Economics,sophomore,13,06,2022,24.0,2.0
+153,9678134,Faiza,Khalfallah,F,19.0,Economics,sophomore,27,06,2022,21.0,2.2
+154,4135862,Sofiane,Meziani,M,19.0,Economics,sophomore,01,06,2022,21.0,1.7
+155,7209348,Kenza,Khelifi,F,19.0,Economics,sophomore,23,06,2022,25.0,1.7
+156,6480912,Hamid,Boughedir,M,18.0,Experimental Science,sophomore,13,06,2022,30.0,3.6
+157,3570928,Zohra,Guerfi,F,18.0,Maths,sophomore,05,06,2022,22.0,3.4
+158,2910834,Hicham,Kichou,M,20.0,Maths,sophomore,06,06,2022,21.0,1.5
+159,5069723,Widad,Tassili,F,18.0,Maths,sophomore,17,06,2022,28.0,3.8
+160,1832074,Said,Adjali,M,20.0,Economics,sophomore,03,06,2022,28.0,2.3
+161,8903472,Aicha,Kessaï,F,20.0,Economics,sophomore,21,06,2022,28.0,1.8
+162,5432890,Hocine,Meradji,M,20.0,Information Technology,sophomore,09,06,2022,20.0,2.7
+163,2673018,Imane,Boudechiche,F,18.0,Technology,sophomore,01,06,2022,28.0,1.8
+164,7589024,Mehdi,Hammoudi,M,20.0,Information Technology,sophomore,20,06,2022,25.0,3.7
+165,4295813,Salma,Bessaoud,F,20.0,Information Technology,sophomore,13,06,2022,26.0,2.2
+166,6942381,Abdallah,Khalfallah,M,18.0,Economics,sophomore,01,06,2022,30.0,2.8
+167,5038721,Samia,Belaïd,F,19.0,Technology,sophomore,08,06,2022,27.0,2.9
+168,8274013,Reda,Ferroukhi,M,18.0,Maths,sophomore,15,06,2022,29.0,3.8
+169,1652398,Hafsa,Hadef,F,20.0,Information Technology,sophomore,16,06,2022,26.0,3.2
+170,9740831,Mourad,Khelifi,M,19.0,Experimental Science,sophomore,22,06,2022,29.0,2.0
+171,7012548,Rym,Derriche,F,19.0,Information Technology,sophomore,03,06,2022,22.0,3.5
+172,2354718,Abderrezak,Bougara,M,18.0,Maths,sophomore,28,06,2022,20.0,1.7
+173,8091734,Kaoutar,Mehennaoui,F,19.0,Maths,sophomore,10,06,2022,29.0,3.9
+174,4568912,Yassine,Hamza,M,20.0,Technology,sophomore,28,06,2022,21.0,1.5
+175,3742980,Mounir,Belkessa,F,19.0,Experimental Science,sophomore,12,06,2022,26.0,1.6
+176,6921854,Malika,Guendouz,M,20.0,Economics,sophomore,01,06,2022,25.0,1.9000000000000001
+177,8371420,Nassim,Bougrara,F,19.0,Economics,sophomore,20,06,2022,21.0,3.3
+178,1490853,Dalila,Terfaya,M,20.0,Maths,sophomore,25,06,2022,20.0,2.9
+179,5870134,Moussa,Tafat,F,19.0,Information Technology,sophomore,23,06,2022,26.0,3.7
+180,4280135,Lina,Harbi,M,18.0,Maths,sophomore,23,06,2022,20.0,2.3
+181,7650923,Anis,Boukhari,F,18.0,Economics,sophomore,14,06,2022,26.0,3.2
+182,3021847,Nawal,Bouhadi,M,19.0,Maths,sophomore,25,06,2022,20.0,1.7
+183,5190347,Samir,Hamel,F,18.0,Maths,sophomore,26,06,2022,27.0,2.9
+184,6948301,Hayat,Ziani,M,18.0,Maths,sophomore,29,06,2022,24.0,2.7
+185,8702193,Abdelkader,Benchikh,F,19.0,Economics,sophomore,22,06,2022,26.0,3.8
+186,2137856,Imene,Chibani,M,19.0,Technology,sophomore,20,06,2022,29.0,3.2
+187,5082341,Samir,Benkaci,F,19.0,Economics,sophomore,05,06,2022,23.0,2.7
+188,7942031,Sana,Bensaïd,M,18.0,Maths,sophomore,01,06,2022,26.0,3.5
+189,1563489,Redouane,Tassili,F,19.0,Experimental Science,sophomore,26,06,2022,24.0,3.9
+190,6370412,Salma,Boumedienne,M,20.0,Maths,sophomore,23,06,2022,29.0,1.6
+191,8901257,Youcef,Gueddouda,F,20.0,Maths,sophomore,26,06,2022,25.0,2.9
+192,4215098,Yasmine,Boukhalfa,M,18.0,Maths,sophomore,24,06,2022,23.0,2.3
+193,9038172,Amar,Aïssaoui,F,18.0,Experimental Science,sophomore,21,06,2022,22.0,3.1
+194,1847502,Rania,Derkaoui,M,20.0,Maths,sophomore,17,06,2022,27.0,3.5
+195,6582013,Abdesselam,Terki,F,18.0,Information Technology,sophomore,09,06,2022,23.0,3.7
+196,3421589,Hanane,Khalfallah,M,18.0,Economics,sophomore,21,06,2022,27.0,3.0
+197,9765023,Chakib,Meziani,F,18.0,Maths,sophomore,02,06,2022,29.0,2.9
+198,2801345,Kaoutar,Khelifi,M,19.0,Economics,sophomore,03,06,2022,20.0,2.8
+199,5948213,Abdelkrim,Boughedir,F,19.0,Information Technology,sophomore,09,06,2022,26.0,3.7
